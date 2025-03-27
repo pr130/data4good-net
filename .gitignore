@@ -62,5 +62,5 @@ data/kanban.csv
 data/meta/
 
 # full markdowns and google docs
-data/docx/
+data/doc/
 data/md/
