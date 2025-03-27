@@ -64,3 +64,6 @@ data/meta/
 # full markdowns and google docs
 data/doc/
 data/md/
+
+# ds store
+.DS_Store
