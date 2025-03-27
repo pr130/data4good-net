@@ -77,3 +77,6 @@ print("Uploading dataset to google sheets")
 googlesheets4::sheet_write(upload, 
                            ss = Sys.getenv("UPLOAD_SHEET"),
                            sheet = "Aktuelle Daten")
+
+# write to disk
+readr::write_csv(upload, "data/upload.csv")

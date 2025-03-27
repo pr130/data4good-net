@@ -1,5 +1,5 @@
-id,title,file_name,md
-1,Hosting,1-hosting.md,"# Hosting
+id,slug,title,category,prio,authors,cc,md,links_to
+1,hosting,Hosting,1 - Grundlagen,10 - zentraler Begriff,"Sören Etler, Leo Preu, Antje Relitz","""Hosting"" in CDL Selbstlernmaterial von Sören Etler, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Hosting
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -156,8 +156,8 @@ Wenn du noch mehr über Hosting erfahren möchtest, schaue dir die folgenden Res
 
 - Video: [Was ist Hosting?](https://youtu.be/btTkgqMI3A4?feature=shared) (de)
 
-- [awesome-selfhosted](https://awesome-selfhosted.net/): Website, die Software sammelt, die selbst gehostet werden kann (en)"
-2,Server,2-server.md,"# Server
+- [awesome-selfhosted](https://awesome-selfhosted.net/): Website, die Software sammelt, die selbst gehostet werden kann (en)","2,3,27,26,36,37,39"
+2,server,Server,1 - Grundlagen,10 - zentraler Begriff,"Sören Etler, Leo Preu, Antje Relitz","""Server"" in CDL Selbstlernmaterial von Sören Etler, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Server
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -271,8 +271,8 @@ Wenn du noch mehr über Server und Clients erfahren möchtest, schaue dir die fo
 - [What is a Server? Servers vs Desktops Explained](https://www.youtube.com/watch?v=UjCDWCeHCzY) (en)
 
 - “[Das Client-Server Modell einfach erklärt](https://youtu.be/LwziP-ZrbUs?si=-oO3WVOBG586Vy44)” (de)
-"
-3,Cloud,3-cloud.md,"# Cloud
+","1,3,22,24,25,27,29,39"
+3,cloud,Cloud,1 - Grundlagen,10 - zentraler Begriff,"Antje Relitz, Leo Preu","""Cloud"" in CDL Selbstlernmaterial von Antje Relitz, Leo Preu, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Cloud
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -404,8 +404,8 @@ Wenn du noch mehr über die Cloud erfahren möchtest, schaue dir die folgenden R
 - Video: [Cloud Computing in 2 Minutes](https://youtu.be/N0SYCyS2xZA?feature=shared) (en)
 
 - Eine kurze Video-Einführung in Cloud Computing: [Cloud Computing In 6 Minutes | What Is Cloud Computing? | Cloud Computing Explained | Simplilearn](https://www.youtube.com/watch?v=M988_fsOSWo) (en)
-"
-4,DNS,4-dns.md,"# DNS
+","1,2,8,22,25,28,36,37,41,14,27,29"
+4,dns,DNS,1 - Grundlagen,1 - fällt nur in bestimmten Umständen,"Leili Riazy, Leo Preu, Antje Relitz","""DNS"" in CDL Selbstlernmaterial von Leili Riazy, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# DNS
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -483,8 +483,8 @@ Wenn du noch mehr über DNS erfahren möchtest, schaue dir die folgenden Ressour
 - [Life of a DNS query](https://wizardzines.com/comics/life-of-a-dns-query/) Comic (englisch)
 
 - [Chaosradio Express Episode über DNS](https://cre.fm/cre099-domain-name-system) (Podcast)
-"
-5,Zertifikat,5-zertifikat.md,"# Zertifikat
+",NA
+5,zertifikat,Zertifikat,1 - Grundlagen,1 - fällt nur in bestimmten Umständen,"Antje Relitz, Leo Preu","""Zertifikat"" in CDL Selbstlernmaterial von Antje Relitz, Leo Preu, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Zertifikat
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -498,8 +498,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-6,Authentifizierung,6-authentifizierung.md,"# Authentifizierung
+",NA
+6,authentifizierung,Authentifizierung,1 - Grundlagen,5 - fällt häufig,Asim Alsabagh,"""Authentifizierung"" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Authentifizierung
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -513,8 +513,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-7,Permission Management,7-permission-management.md,"# Permission Management
+",NA
+7,permission-management,Permission Management,1 - Grundlagen,1 - fällt nur in bestimmten Umständen,Sören Etler,"""Permission Management"" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Permission Management
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -528,8 +528,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-8,Terminal,8-terminal.md,"# Terminal
+",NA
+8,terminal,Terminal,1 - Grundlagen,1 - fällt nur in bestimmten Umständen,Antje Relitz,"""Terminal"" in CDL Selbstlernmaterial von Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Terminal
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -543,8 +543,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-9,Bug,9-bug.md,"# Bug
+",3
+9,bug,Bug,1 - Grundlagen,1 - fällt nur in bestimmten Umständen,"Antje Relitz, Leo Preu","""Bug"" in CDL Selbstlernmaterial von Antje Relitz, Leo Preu, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Bug
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -558,8 +558,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-10,User Experience (UX),10-user-experience-ux.md,"# User Experience (UX)
+",NA
+10,ux,User Experience (UX),2 - Software-Entwicklung,5 - fällt häufig,"Antje Relitz, Leo Preu","""User Experience (UX)"" in CDL Selbstlernmaterial von Antje Relitz, Leo Preu, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# User Experience (UX)
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -573,8 +573,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-14,DevOps,14-devops.md,"# DevOps
+",26
+14,devops,DevOps,2 - Software-Entwicklung,1 - fällt nur in bestimmten Umständen,Marcus Voß,"""DevOps"" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# DevOps
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -683,8 +683,8 @@ Wenn du noch mehr über agil erfahren möchtest, schaue dir die folgenden Ressou
 
 - [11 Tipps und Ressourcen](https://about.gitlab.com/de-de/topics/devops/devops-beginner-resources/) für den Einstieg von Gitlab, wie z.B. dieses [kostenlose ebook](https://learn.gitlab.com/beginners-guide-devops/guide-to-devops) mit den Grundlagen. (de und en)
 
-- Buch: “Projekt Phoenix: Der Roman über IT und DevOps” (Gene Kim, Kevin Behr, George Spafford)"
-15,Agil,15-agil.md,"# Agil
+- Buch: “Projekt Phoenix: Der Roman über IT und DevOps” (Gene Kim, Kevin Behr, George Spafford)","3,15,16"
+15,agil,Agil,2 - Software-Entwicklung,10 - zentraler Begriff,Marcus Voß,"""Agil"" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Agil
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -807,8 +807,8 @@ Wenn du noch mehr über agil erfahren möchtest, schaue dir die folgenden Ressou
 - [Agile goes Nonprofit](https://agile-goes-nonprofit.de/)[:](https://agathe-hilft.de/) Eine Lernplattform der deutschen Umweltstiftung und swapwork, die gemeinnützigen Projekten und Akteuren hilft, agile Methoden umzusetzen. (de)
 
 - [Agathe hilft](https://agathe-hilft.de/): Ehrenamtliche Coaches helfen gemeinnützigen Organisationen und Initiativen bei der Einführung agiler Ansätze. Das Angebot ist kostenlos. (de)
-"
-16,Wasserfall,16-wasserfall.md,"# Wasserfall
+","16,17,18,19,14"
+16,wasserfall,Wasserfall,2 - Software-Entwicklung,1 - fällt nur in bestimmten Umständen,Marcus Voß,"""Wasserfall"" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Wasserfall
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -822,8 +822,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-17,SCRUM,17-scrum.md,"# SCRUM
+","14,15,17"
+17,scrum,SCRUM,2 - Software-Entwicklung,5 - fällt häufig,Marcus Voß,"""SCRUM"" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# SCRUM
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -963,8 +963,8 @@ Wenn du noch mehr über Scrum erfahren möchtest, schaue dir die folgenden Resso
 - [Agathe hilft](https://agathe-hilft.de/): Ehrenamtliche Coaches helfen gemeinnützigen Organisationen und Initiativen bei der Einführung agiler Ansätze wie Scrum. Das Angebot ist kostenlos. (de)
 
 Wenn ihr euch dafür interessiert, agiles Arbeiten in eurer Organisation einzuführen, möchten wir euch auch die allgemeineren Ressourcen zu [agil](https://civic-data.de/selbstlernmaterial/#agil) nahe legen.
-"
-18,Sprint,18-sprint.md,"# Sprint
+","15,16,18,19"
+18,sprint,Sprint,2 - Software-Entwicklung,1 - fällt nur in bestimmten Umständen,Marcus Voß,"""Sprint"" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Sprint
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -978,8 +978,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-19,Backlog,19-backlog.md,"# Backlog
+","15,17"
+19,backlog,Backlog,2 - Software-Entwicklung,1 - fällt nur in bestimmten Umständen,Marcus Voß,"""Backlog"" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Backlog
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -993,8 +993,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-21,Mobile App,21-mobile-app.md,"# Mobile App
+","15,17"
+21,mobileapp,Mobile App,3 - Anwendungstypen und Schnittstellen,1 - fällt nur in bestimmten Umständen,Sören Etler,"""Mobile App"" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Mobile App
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -1008,8 +1008,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-22,API,22-api.md,"# API
+",NA
+22,api,API,3 - Anwendungstypen und Schnittstellen,5 - fällt häufig,Sören Etler,"""API"" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# API
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -1023,8 +1023,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-23,Desktop-Anwendung,23-desktopanwendung.md,"# Desktop-Anwendung
+","2,3,39"
+23,desktop-anwendung,Desktop-Anwendung,3 - Anwendungstypen und Schnittstellen,1 - fällt nur in bestimmten Umständen,Sören Etler,"""Desktop-Anwendung"" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Desktop-Anwendung
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -1038,8 +1038,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-24,Frontend und Backend,24-frontend-und-backend.md,"# Frontend und Backend
+",NA
+24,frontend-backend,Frontend und Backend,3 - Anwendungstypen und Schnittstellen,5 - fällt häufig,Sören Etler,"""Frontend und Backend"" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Frontend und Backend
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -1053,8 +1053,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-25,Local vs Remote,25-local-vs-remote.md,"# Local vs Remote
+","2,37,39"
+25,local-remote,Local vs Remote,3 - Anwendungstypen und Schnittstellen,1 - fällt nur in bestimmten Umständen,Sören Etler,"""Local vs Remote"" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Local vs Remote
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -1068,8 +1068,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-26,Chatbot,26-chatbot.md,"# Chatbot
+","2,3"
+26,chatbot,Chatbot,3 - Anwendungstypen und Schnittstellen,5 - fällt häufig,Sören Etler,"""Chatbot"" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Chatbot
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -1185,8 +1185,8 @@ Wenn du noch mehr über Chatbots erfahren möchtest, schaue dir die folgenden Re
 - [Wie funktioniert ein Chatbot und wann lohnt sich der Aufwand für kleine Unternehmen | Kurz erklärt](https://www.youtube.com/watch?v=4ks3RY6lSRQ) (de)
 
 - Eine [Studie von Microsoft](https://www.forbes.com/sites/dimitarmixmihov/2025/02/11/ai-is-making-you-dumber-microsoft-researchers-say/), die zeigt, dass die vermehrte Nutzung von KI Chatbots zu weniger kritischem Denken führt (en)
-"
-27,Datenbank,27-datenbank.md,"# Datenbank
+","1,10,36,37,39,40,41,42,43"
+27,datenbank,Datenbank,4 - Datentools,10 - zentraler Begriff,"Asim Alsabagh, Leo Preu, Antje Relitz","""Datenbank"" in CDL Selbstlernmaterial von Asim Alsabagh, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Datenbank
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -1290,8 +1290,8 @@ Wenn du noch mehr über Datenbanken erfahren möchtest, schaue dir die folgenden
 - [Database vs Data Warehouse vs Data Lake | What is the Difference?](https://www.youtube.com/watch?v=-bSkREem8dM) (YouTube, englisch)
 
 - [Datenbank Grundlagen einfach erklärt](https://www.youtube.com/watch?v=-LJYaXfR2X4) (YouTube, deutsch)
-"
-28,Datenbankmanagementsystem (DBMS),28-datenbankmanagementsystem-dbms.md,"# Datenbankmanagementsystem (DBMS)
+","1,2,3,28,29,30,31,34,33,36"
+28,dbms,Datenbankmanagementsystem (DBMS),4 - Datentools,1 - fällt nur in bestimmten Umständen,Asim Alsabagh,"""Datenbankmanagementsystem (DBMS)"" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Datenbankmanagementsystem (DBMS)
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -1305,8 +1305,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-29,Data Warehouse (DWH),29-data-warehouse-dwh.md,"# Data Warehouse (DWH)
+","3,27"
+29,data-warehouse,Data Warehouse (DWH),4 - Datentools,1 - fällt nur in bestimmten Umständen,"Asim Alsabagh, Antje Relitz, Leo Preu","""Data Warehouse (DWH)"" in CDL Selbstlernmaterial von Asim Alsabagh, Antje Relitz, Leo Preu, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Data Warehouse (DWH)
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -1386,8 +1386,8 @@ Wenn du noch mehr über Data Warehouses erfahren möchtest, schaue dir die folge
 - [DWH vs Data Lake](https://www.kobold.ai/data-warehouse-vs-lake/) (Blog, deutsch)
 
 - [Database vs Data Warehouse vs Data Lake | What is the Difference?](https://www.youtube.com/watch?v=-bSkREem8dM) (YouTube, englisch)
-"
-30,Data Lake,30-data-lake.md,"# Data Lake
+","2,3,27,30,32,33"
+30,data-lake,Data Lake,4 - Datentools,1 - fällt nur in bestimmten Umständen,Asim Alsabagh,"""Data Lake"" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Data Lake
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -1401,8 +1401,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-31,SQL,31-sql.md,"# SQL
+","27,29"
+31,sql,SQL,4 - Datentools,5 - fällt häufig,Asim Alsabagh,"""SQL"" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# SQL
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -1416,8 +1416,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-32,ETL,32-etl.md,"# ETL
+",27
+32,etl,ETL,4 - Datentools,1 - fällt nur in bestimmten Umständen,Asim Alsabagh,"""ETL"" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# ETL
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -1431,8 +1431,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-33,Datenvisualisierung,33-datenvisualisierung.md,"# Datenvisualisierung
+","29,34"
+33,datenvisualisierung,Datenvisualisierung,4 - Datentools,10 - zentraler Begriff,Asim Alsabagh,"""Datenvisualisierung"" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Datenvisualisierung
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -1560,8 +1560,8 @@ Wenn du noch mehr über Datenvisualisierung erfahren möchtest, schaue dir die f
 - [Eine Übersicht an wichtigen Überlegungen beim Erstellen von Datenvisualisierungen](https://www.data-to-viz.com/caveats.html) (en)
 
 - In der [Civic Data Academy](https://civic-data.de/lernen/) findest du zahlreiche Lernangebote zum Thema Datenvisualisierung und Data Storytelling (en/de)
-"
-34,Datenanalyse,34-datenanalyse.md,"# Datenanalyse
+","27,29,34,35,38,36"
+34,datenanalyse,Datenanalyse,4 - Datentools,10 - zentraler Begriff,Asim Alsabagh,"""Datenanalyse"" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Datenanalyse
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -1725,8 +1725,8 @@ Wenn du noch mehr über Datenanalyse erfahren möchtest, schaue dir die folgende
 - Auf der [Website von CorrelAid e.V.](https://correlaid.org/bildung) findet ihr Kurse und Materialien zu verschiedenen Themen, u.a. auch zu Datenanalyse (de/en)
 
 - Der [Datenslebenszyklus](https://civic-data.de/datenlebenszyklus/) ist ein Framework, welches Datenanalysen in einen breiteren Kontext der Datenverarbeitung einbettet.
-"
-35,Programmiersprache,35-programmiersprache.md,"# Programmiersprache
+","32,33,35,36,37,38,41,27"
+35,programmiersprache,Programmiersprache,4 - Datentools,5 - fällt häufig,Asim Alsabagh,"""Programmiersprache"" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Programmiersprache
 ## Erklärung
 An dieser Seite arbeiten wir noch.
 
@@ -1740,8 +1740,8 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-"
-36,Künstliche Intelligenz (KI),36-künstliche-intelligenz-ki.md,"# Künstliche Intelligenz (KI)
+","33,34,37"
+36,ki,Künstliche Intelligenz (KI),5 - Datenmethoden,10 - zentraler Begriff,"Leili Riazy, Leo Preu, Antje Relitz","""Künstliche Intelligenz (KI)"" in CDL Selbstlernmaterial von Leili Riazy, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Künstliche Intelligenz (KI)
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -1849,8 +1849,8 @@ Die Möglichkeiten, die sich durch den Einsatz von KI-Software eröffnen, sind v
 - Blog Websites (z. B. [Towards Data Science](https://towardsdatascience.com/), [KDnuggets](https://www.kdnuggets.com/)).
 
 - Podcasts (z. B. [Data Skeptic](https://dataskeptic.com/))
-"
-37,Machine Learning (ML),37-machine-learning-ml.md,"# Machine Learning (ML)
+","1,3,27,33,37,38,41,42,43,26,34,39"
+37,ml,Machine Learning (ML),5 - Datenmethoden,10 - zentraler Begriff,"Leili Riazy, Leo Preu, Antje Relitz","""Machine Learning (ML)"" in CDL Selbstlernmaterial von Leili Riazy, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Machine Learning (ML)
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -1950,8 +1950,8 @@ Machine Learning basiert auf Modellen, die aus Erfahrungen lernen. Je mehr Daten
 - Viele weitere Online-Kurse zum Thema bei [KI-Campus](https://ki-campus.org/).
 
 - Die [Algorithmic Justice League](https://www.ajl.org/) setzt sich mit Bias und negativen Konsequenzen von ML-Modellen auseinander, z.B. im Kontext von Gesichtserkennungssoftware. Eine ähnliche, wenn auch allgemeinere, Rolle spielt [Algorithm Watch](https://algorithmwatch.org/de/) in Deutschland.
-"
-38,Deskriptive Statistik,38-deskriptive-statistik.md,"# Deskriptive Statistik
+","1,3,24,34,35,36,41,43,26,42"
+38,deskriptive-statistik,Deskriptive Statistik,5 - Datenmethoden,5 - fällt häufig,"Leili Riazy, Antje Relitz","""Deskriptive Statistik"" in CDL Selbstlernmaterial von Leili Riazy, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Deskriptive Statistik
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -2103,8 +2103,8 @@ Hier sehen wir direkt noch einmal die Ausreißer-Woche in KW20. Außerdem kann m
   - [Excel Pivot-Tabellen ERSTELLEN 📚 Grundlagen einfach erklärt](https://www.youtube.com/watch?v=6zaq-9Z4poE) (YouTube)
 
   - [Daten mit Pivot-Tabellen in Google Sheets strukturieren und auswerten | Google Workspace Tutorial](https://www.youtube.com/watch?v=n4aFMaL01Mc) (YouTube)
-"
-39,Generative KI,39-generative-ki.md,"# Generative KI
+","36,33,34"
+39,generative-ki,Generative KI,5 - Datenmethoden,5 - fällt häufig,Leili Riazy,"""Generative KI"" in CDL Selbstlernmaterial von Leili Riazy, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Generative KI
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -2208,8 +2208,8 @@ Spezifische Bereiche generativer KI könnt ihr auch in den Kapiteln zu [ChatGPT]
 - [Sora](https://openai.com/sora/) zur Generierung von Videos (en).
 
 - [Vortrag von Journalistin Eva Wolfangel](https://media.ccc.de/v/37c3-12008-unsere_worte_sind_unsere_waffen) darüber, wie das Social Engineering von Sprachmodellen funktioniert (gehalten auf dem 37ten Chaos Communication Congress)
-"
-40,RAG,40-rag.md,"# RAG
+","1,2,22,24,36,40,41,42,43,26"
+40,rag,RAG,5 - Datenmethoden,1 - fällt nur in bestimmten Umständen,Leili Riazy,"""RAG"" in CDL Selbstlernmaterial von Leili Riazy, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# RAG
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -2291,8 +2291,8 @@ Die Grafik illustriert das RAG Verfahren. Die Schritte 2 und 3 in der Grafik zei
 - [Blogbeitrag vom Fraunhofer IESE](https://www.iese.fraunhofer.de/blog/retrieval-augmented-generation-rag/) mit einer ausführlichen Erläuterung von RAG Systemen (de)
 
 - [Video von IBM](https://youtu.be/T-D1OfcDW1M?si=dqwuzI_xFOT0ds8x) mit einer einfachen Erklärung von RAG (en)
-"
-41,LLM,41-llm.md,"# LLM
+","39,26,41,42"
+41,llm,LLM,5 - Datenmethoden,5 - fällt häufig,Leili Riazy,"""LLM"" in CDL Selbstlernmaterial von Leili Riazy, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# LLM
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -2386,8 +2386,8 @@ Hier sind die derzeit wichtigsten Firmen (Stand Februar 2025):
   - Online-Magazin: [Big Tech’s Success: The untold stories of the exploitation of african workers](https://dingdingding.org/), Issue 7# in dingdingding: A Magazine about the Internet and Things (en)
 
   - Interview: [“The hidden workers behind AI tell their stories”](https://netzpolitik.org/2024/data-workers-inquiry-the-hidden-workers-behind-ai-tell-their-stories/) (en)
-"
-42,SLM,42-slm.md,"# SLM
+","26,36,37,39,40,41,42,43,3,34"
+42,slm,SLM,5 - Datenmethoden,1 - fällt nur in bestimmten Umständen,Leili Riazy,"""SLM"" in CDL Selbstlernmaterial von Leili Riazy, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# SLM
 ## Erklärung
 
 ### Synonyme & Übersetzungen
@@ -2471,8 +2471,8 @@ Hinweis: Da SLMs ein Teilgebiet [generativer KI](https://civic-data.de/selbstler
 - [Artikel von DataCamp](https://www.datacamp.com/de/blog/small-language-models): Eine Auflistung aus dem Jahr 2024 zu SLMs. Hier werden einzelne SLMs zeitlich in Perspektive gesetzt und für spezifische Anwendungen evaluiert.
 
 - Chatte mit einem SLM auf [Huggingchat](https://huggingface.co/chat/): Hier kannst du ein SLM (beispielsweise microsoft/Phi-3.5-mini-instruct) auswählen und einige Anfragen austesten.
-"
-43,ChatGPT,43-chatgpt.md,"# ChatGPT
+","36,37,39,40,41,26"
+43,chatgpt,ChatGPT,5 - Datenmethoden,5 - fällt häufig,Leili Riazy,"""ChatGPT"" in CDL Selbstlernmaterial von Leili Riazy, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# ChatGPT
 ## Erklärung
 
 ### Definition
@@ -2523,4 +2523,4 @@ Siehe Implikationen von [LLM](https://example.org/llm)s und [Generativer KI](htt
 
 - [Generelle Informationen zu KI](https://www.bildungsserver.de/kuenstliche-intelligenz-ki-in-der-sozialen-arbeit-13030-de.html#Fuer_die_Praxis_KI_Tools_und_Materialien) vom deutschen Bildungsserver, häufig ist aber konkret ChatGPT damit gemeint.
 
-- [Wikipedia Artikel](https://de.wikipedia.org/wiki/ChatGPT)"
+- [Wikipedia Artikel](https://de.wikipedia.org/wiki/ChatGPT)","39,41,26,36,37"

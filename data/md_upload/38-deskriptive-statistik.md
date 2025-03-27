@@ -125,7 +125,7 @@ Wir erkennen am Diagramm, dass in den meisten Wochen zwischen 0 und 10 Stunden e
 Eine andere Fragestellung, die uns interessieren könnte, ist der zeitliche Verlauf: Gibt es bestimmte Regelmäßigkeiten bei ehrenamtlichen Tätigkeiten? Um diese Frage zu beantworten, können wir ein Diagramm erstellen. Dieses mal tragen wir auf der horizontalen Achse die Kalenderwochen auf und auf der vertikalen Achse die geleisteten Ehrenamtsstunden:  
   
   
-![](https://civic-data.de/app/uploads/deskriptive-statistik-zeitverlauf.svg)
+![](https://civic-data.de/app/uploads/deskriptive-statistik-zeitverlauf.png)
 
 Hier sehen wir direkt noch einmal die Ausreißer-Woche in KW20. Außerdem kann man erkennen, dass es ab KW5 einen 3-wöchentlichen Rhythmus mit besonders vielen Ehrenamts-Stunden gibt. In den 2 Wochen danach fällt die Anzahl der Ehrenamts-Stunden dann jeweils wieder. Auch dieses Muster aus unserer deskriptiven Analyse können wir verwenden, wenn wir schätzen wollen, wie viele Ehrenamtsstunden in der folgenden Woche geleistet werden.
 
