@@ -11,7 +11,7 @@ Machine Learning (ML) ist ein Teilgebiet der Künstlichen Intelligenz ([KI](http
 
 ### Beispiele
 
-- Viele [KI](https://example.org/ki) Systeme wie [ChatGPT](https://example.org/chatgpt) basieren auf Methoden der Machine Learning Familie.
+- Viele [KI](https://civic-data.de/selbstlernmaterial/#ki) Systeme wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) basieren auf Methoden der Machine Learning Familie.
 
 - Die Wettervorhersage ist ein einfaches Anwendungsbeispiel von prädiktivem Machine Learning. Vergangene Temperaturdaten sowie Daten von unterschiedlichen Sensoren werden genutzt, um die Temperatur in der Zukunft zu schätzen.
 
@@ -33,7 +33,7 @@ Maschinelles Lernen ist für euch relevant, wenn …
 
 - … Bilder und Videos als Daten habt und Informationen aus diesen extrahieren möchtet
 
-- … Medien wie Texte, Bilder und Videos mit Hilfe von [generativer KI](https://example.org/generative-ai) erstellen wollt.
+- … Medien wie Texte, Bilder und Videos mit Hilfe von [generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki) erstellen wollt.
 
 Außerdem ist Machine Learning immer mehr im Alltag präsent - viele Software-Anwendungen haben inzwischen Elemente, die auf Machine Learning zurückgreifen (häufig als “[KI](https://civic-data.de/selbstlernmaterial/#ki)” vermarktet).
 
@@ -43,7 +43,7 @@ Außerdem ist Machine Learning immer mehr im Alltag präsent - viele Software-An
 
 - Um Machine Learning nutzen zu können, benötigt ihr hochwertige und diverse Daten. Viele Modelle benötigen eine bestimmte Menge an Daten, um valide Ergebnisse zu liefern. Gerade bei einer kleinen Anzahl von Beobachtungen in euren Daten solltet ihr euch daher fragen, ob es nicht sinnvoller ist, auf weniger komplexe Methoden zurückzugreifen, um Wissen zu extrahieren.
 
-- Um den Prozess der Methodenfindung einzugrenzen, muss in jedem Fall eine [deskriptive Statistik](https://example.org/deskriptive-statistik) erstellt werden, bevor die Modellierung mit ML beginnt.
+- Um den Prozess der Methodenfindung einzugrenzen, muss in jedem Fall eine [deskriptive Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik) erstellt werden, bevor die Modellierung mit ML beginnt.
 
 - Wenn ihr selbst Machine Learning anwenden möchtet, sind Programmierkenntnisse (insbesondere in den [Programmiersprachen](https://civic-data.de/selbstlernmaterial/#programmiersprache) Python oder R) von Vorteil. Einfache Modellierungen könnt ihr aber auch mit Software wie [Excel](https://www.microsoft.com/de-de/microsoft-365/excel?market=de), [KNIME](https://www.knime.com/) oder [Tableau](https://www.tableau.com/de-de) durchführen.
 
@@ -71,11 +71,11 @@ Machine Learning basiert auf Modellen, die aus Erfahrungen lernen. Je mehr Daten
 
 ### Nachteile von ML
 
-- Starke Abhängigkeit von den verwendeten Daten: Auf schlechten Daten trainierte Modelle können sich nach dem Training als unbrauchbar erweisen. Eine gründliche [deskriptive Statistik](https://example.org/deskriptive-statistik) und explorative [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) können dieser Gefahr vorbeugen.
+- Starke Abhängigkeit von den verwendeten Daten: Auf schlechten Daten trainierte Modelle können sich nach dem Training als unbrauchbar erweisen. Eine gründliche [deskriptive Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik) und explorative [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) können dieser Gefahr vorbeugen.
 
 - Voreingenommenheit der Modelle: Bestehende Verzerrungen (en: Bias) in den Daten übertragen sich auf die Prognose des ML Modells (quasi eine "Voreingenommenheit des Modells”). Man muss darum die Ergebnisse mit Vorsicht interpretieren oder ggf. aktiv gegen bestehende Verzerrungen aus der Vergangenheit korrigieren.
 
-- Schlechte Interpretierbarkeit: Große Modelle mit vielen Parametern, wie etwa ein Large Language Model ([LLM](https://example.org/llm)), sind schwierig in der Interpretierbarkeit. Sie werden häufig als “Black Box” bezeichnet, weil Entscheidungsprozesse nicht mehr nachvollziehbar sind - das ist besonders dann fragwürdig, wenn die Entscheidungen eines ML Modells direkten Einfluss auf Menschenleben haben (z.B. ML Recruiting Algorithmen, die automatisiert Lebensläufe analysieren und Kandidat\*innen ablehnen oder ML Banking Algorithmen, die aufgrund der bisherigen Ausgaben über den Kreditrahmen einer\*s Kund\*in entscheiden ).
+- Schlechte Interpretierbarkeit: Große Modelle mit vielen Parametern, wie etwa ein Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)), sind schwierig in der Interpretierbarkeit. Sie werden häufig als “Black Box” bezeichnet, weil Entscheidungsprozesse nicht mehr nachvollziehbar sind - das ist besonders dann fragwürdig, wenn die Entscheidungen eines ML Modells direkten Einfluss auf Menschenleben haben (z.B. ML Recruiting Algorithmen, die automatisiert Lebensläufe analysieren und Kandidat\*innen ablehnen oder ML Banking Algorithmen, die aufgrund der bisherigen Ausgaben über den Kreditrahmen einer\*s Kund\*in entscheiden ).
 
 - Mögliche Daten-Lecks: Da die Daten, aus denen ein ML Modell gelernt hat, in dieses Modell eingeflossen sind, kann es möglich sein, mit gezielten Angriffen auf das Modell diese Daten wieder zu rekonstruieren. So könnten z.B. die Anfragen, die ihr einem [LLM](https://civic-data.de/selbstlernmaterial/#llm) wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) schickt, in den Antworten, die das Modell anderen Nutzern gibt, wieder auftauchen.
 
@@ -83,13 +83,13 @@ Machine Learning basiert auf Modellen, die aus Erfahrungen lernen. Je mehr Daten
 
 ### Verwandte Begriffe
 
-- [KI](https://example.org/ki) (Künstliche Intelligenz): Systeme, die speziell für das Nachahmen von menschlichem Verhalten erstellt und genutzt werden. Häufig werden hierfür ML Methoden verwendet.
+- [KI](https://civic-data.de/selbstlernmaterial/#ki) (Künstliche Intelligenz): Systeme, die speziell für das Nachahmen von menschlichem Verhalten erstellt und genutzt werden. Häufig werden hierfür ML Methoden verwendet.
 
-- [Generative KI](https://example.org/generative-ai): Teilbereich von Machine Learning, bei dem das Ziel ist, Daten (z.B. Text oder Bilder) durch spezifische Anweisungen zu erstellen.
+- [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki): Teilbereich von Machine Learning, bei dem das Ziel ist, Daten (z.B. Text oder Bilder) durch spezifische Anweisungen zu erstellen.
 
-- Large Language Model ([LLM](https://example.org/llm)): Teilbereich von Machine Learning und Generativer KI, bei der auf eine Textanfrage eine Antwort generiert wird.
+- Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)): Teilbereich von Machine Learning und Generativer KI, bei der auf eine Textanfrage eine Antwort generiert wird.
 
-- Small Language Model ([SLM](https://example.org/slm)): Kleinere (aber immernoch große) Version von LLM.
+- Small Language Model ([SLM](https://civic-data.de/selbstlernmaterial/#slm)): Kleinere (aber immernoch große) Version von LLM.
 
 ## Weiterführende Materialien
 

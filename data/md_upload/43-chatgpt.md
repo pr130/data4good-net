@@ -3,7 +3,7 @@
 
 ### Definition
 
-[ChatGPT](http://chatgpt.com) ist ein [Chatbot](https://example.org/chatbot), der von der Firma OpenAI entwickelt wurde. ChatGPT ahmt Unterhaltungen von Menschen nach. Im Hintergrund wird dafür ein [KI](https://example.org/ki) Sprachmodell, ein sogenanntes Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)) verwendet. Die Veröffentlichung von ChatGPT im Jahr 2022 hat große Wellen in der breiten Öffentlichkeit geschlagen und [LLM](https://example.org/llm)s schlagartig populär gemacht. ChatGPT kann mit unterschiedlichen LLMs als Grundlage ausgeführt werden.
+[ChatGPT](http://chatgpt.com) ist ein [Chatbot](https://civic-data.de/selbstlernmaterial/#chatbot), der von der Firma OpenAI entwickelt wurde. ChatGPT ahmt Unterhaltungen von Menschen nach. Im Hintergrund wird dafür ein [KI](https://civic-data.de/selbstlernmaterial/#ki) Sprachmodell, ein sogenanntes Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)) verwendet. Die Veröffentlichung von ChatGPT im Jahr 2022 hat große Wellen in der breiten Öffentlichkeit geschlagen und [LLM](https://civic-data.de/selbstlernmaterial/#llm)s schlagartig populär gemacht. ChatGPT kann mit unterschiedlichen LLMs als Grundlage ausgeführt werden.
 
 ### Beispiele
 
@@ -11,11 +11,11 @@
 
 ## Wann ist ChatGPT für euch relevant? 
 
-Siehe Relevanz von [LLM](https://example.org/llm)s und [Generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki).
+Siehe Relevanz von [LLM](https://civic-data.de/selbstlernmaterial/#llm)s und [Generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki).
 
 ## Was sind die Implikationen von ChatGPT für euch? 
 
-Siehe Implikationen von [LLM](https://example.org/llm)s und [Generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki).
+Siehe Implikationen von [LLM](https://civic-data.de/selbstlernmaterial/#llm)s und [Generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki).
 
 - Gerade weil ChatGPT so gut funktioniert, ist es verlockend, viel damit zu machen und sich die Arbeit zu erleichtern. Gerade personenbezogene oder anderweitig sensible Daten (z.B. Finanzpläne) solltet ihr aber nicht in ChatGPT verarbeiten.
 
@@ -23,23 +23,23 @@ Siehe Implikationen von [LLM](https://example.org/llm)s und [Generativer KI](htt
 
 ### Vorteile von ChatGPT
 
-- Siehe Vorteile von [LLM](https://example.org/llm).
+- Siehe Vorteile von [LLM](https://civic-data.de/selbstlernmaterial/#llm).
 
 - Kostenlose Nutzung auch ohne Anmeldung möglich.
 
 ### Nachteile von ChatGPT
 
-- Siehe Nachteile von [LLM](https://example.org/llm).
+- Siehe Nachteile von [LLM](https://civic-data.de/selbstlernmaterial/#llm).
 
 - Nur in reduziertem Umfang kostenlos und ohne Anmeldung nutzbar. Nach Erreichen des Limits kostenpflichtig, anders als Konkurrenzprodukte wie z.B. [DeepSeek](https://www.deepseek.com/) (Stand Februar 2025).
 
 ### Verwandte Begriffe
 
-- [Generative KI](https://example.org/generative-ai): Oberbegriff für KI-Systeme, die neue Inhalte (Texte, Bilder, Musik) erzeugen. ChatGPT benutzt für die Textgenerierung ein LLM. LLMs sind ein Teilbereich von Generativer KI.
+- [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki): Oberbegriff für KI-Systeme, die neue Inhalte (Texte, Bilder, Musik) erzeugen. ChatGPT benutzt für die Textgenerierung ein LLM. LLMs sind ein Teilbereich von Generativer KI.
 
-- Large Language Model ([LLM](https://example.org/llm)): Zugrundeliegendes Sprachmodell, was immer die folgenden Worte auf eine Textsequenz vorhersagt. Chatbots erfordern noch ein zusätzliches Modell, was den Text in eine “Frage”/”Antwort” Reihenfolge bringt.
+- Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)): Zugrundeliegendes Sprachmodell, was immer die folgenden Worte auf eine Textsequenz vorhersagt. Chatbots erfordern noch ein zusätzliches Modell, was den Text in eine “Frage”/”Antwort” Reihenfolge bringt.
 
-- Small Language Model ([SLM](https://example.org/slm)): Kleinere Version eines LLMs, welches für einen Chatbot genutzt werden kann.
+- Small Language Model ([SLM](https://civic-data.de/selbstlernmaterial/#slm)): Kleinere Version eines LLMs, welches für einen Chatbot genutzt werden kann.
 
 ## Weiterführende Materialien
 

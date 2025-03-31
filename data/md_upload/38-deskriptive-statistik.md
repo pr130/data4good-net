@@ -39,7 +39,7 @@ Deskriptive Statistik ist für euch fast immer relevant, wenn ihr Daten auswerte
 
 - Deskriptive Statistiken sind ein essenzieller Bestandteil von Monitoring, z.B. von Outputs oder Outcomes in eurer Arbeit. Visuelle Darstellungen über Zeit machen Veränderungen sichtbar und statistische Kennzahlen wie Mittelwerte und Varianz geben euch Aufschluss über eure Arbeit.
 
-- Es ist wichtig, vor der Entwicklung oder Anwendung von komplexeren statistischen Methoden (z.B. [ML](https://example.org/ml) oder [KI](https://example.org/ki)-Modellen) deskriptive Statistiken zu berechnen. Sie zeigen euch, ob eure Daten die Voraussetzungen erfüllen, ob sie womöglich verzerrt sind oder ob Probleme mit der Datenqualität bestehen.
+- Es ist wichtig, vor der Entwicklung oder Anwendung von komplexeren statistischen Methoden (z.B. [ML](https://civic-data.de/selbstlernmaterial/#ml) oder [KI](https://civic-data.de/selbstlernmaterial/#ki)-Modellen) deskriptive Statistiken zu berechnen. Sie zeigen euch, ob eure Daten die Voraussetzungen erfüllen, ob sie womöglich verzerrt sind oder ob Probleme mit der Datenqualität bestehen.
 
 - Wenn ihr noch keine konkrete Fragestellung oder Anwendungsfall für eure Daten habt, ist eine explorative Datenanalyse (EDA) eine gute Wahl. In einer EDA berechnet ihr deskriptive Statistiken und erstellt Darstellungen eurer Daten mit dem Ziel, einen Überblick über die Daten zu bekommen, sie besser kennenzulernen und potenziell unbekannte, interessante Zusammenhänge zu finden.
 
@@ -49,11 +49,11 @@ Deskriptive Statistik ist für euch fast immer relevant, wenn ihr Daten auswerte
 
 - Mit Tabellenkalkulationsprogrammen (z.B. Excel, Google Sheets, OnlyOffice) könnt ihr selbst Mittelwerte berechnen oder einfache Grafiken erstellen. Solche Analysen sind kostengünstig und nach einer Einarbeitung meistens gut selbst durchführbar.
 
-- Neben Tabellenkalkulationsprogrammen sind Anwendungen aus dem Bereich [Datenvisualisierung](https://example.org/datenvisualisierung) und Business Intelligence auch häufig darauf ausgelegt, deskriptive Statistiken zu erstellen und explorative Datenanalysen durchzuführen.
+- Neben Tabellenkalkulationsprogrammen sind Anwendungen aus dem Bereich [Datenvisualisierung](https://civic-data.de/selbstlernmaterial/#datenvisualisierung) und Business Intelligence auch häufig darauf ausgelegt, deskriptive Statistiken zu erstellen und explorative Datenanalysen durchzuführen.
 
 ## Mehr zu deskriptiver Statistik
 
-Deskriptive Statistik ist oft ein vorgeschalteter Prozess, um festzustellen, ob Daten für die Modellierung [ML](https://example.org/ml) oder [KI](https://civic-data.de/selbstlernmaterial/#ki) genutzt werden könnten. Dort können grobe Fehler in den Daten auffallen.
+Deskriptive Statistik ist oft ein vorgeschalteter Prozess, um festzustellen, ob Daten für die Modellierung [ML](https://civic-data.de/selbstlernmaterial/#ml) oder [KI](https://civic-data.de/selbstlernmaterial/#ki) genutzt werden könnten. Dort können grobe Fehler in den Daten auffallen.
 
 ### Vorteile von deskriptiver Statistik
 
@@ -65,7 +65,7 @@ Deskriptive Statistik ist oft ein vorgeschalteter Prozess, um festzustellen, ob 
 
 ### Nachteile von deskriptiver Statistik
 
-- Jede Vereinfachung der Daten lässt einen Teil der Geschichte weg. Die Aussagekraft von einzelnen Kennzahlen wie dem Mittelwert ist limitiert. In vielen Situationen ist es sinnvoll, der deskriptiven Statistik eine tiefergehende [Datenanalyse](https://example.org/datenanalyse) anzuschließen.
+- Jede Vereinfachung der Daten lässt einen Teil der Geschichte weg. Die Aussagekraft von einzelnen Kennzahlen wie dem Mittelwert ist limitiert. In vielen Situationen ist es sinnvoll, der deskriptiven Statistik eine tiefergehende [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) anzuschließen.
 
 - Es kann naheliegend wirken, aus Zusammenhängen wie Korrelationen Aussagen zur Ursache-Wirkung abzuleiten (z.B. “mehr Spendenaufrufe führen zu mehr Spenden”). Solche kausalen Interpretationen sind jedoch theoretisch häufig nicht zulässig, sollten nur mit Vorsicht getroffen und kritisch hinterfragt werden (siehe z.B. [diese Sammlung](https://www.tylervigen.com/spurious-correlations) von Beispielgrößen mit hoher Korrelation).
 
@@ -131,7 +131,7 @@ Hier sehen wir direkt noch einmal die Ausreißer-Woche in KW20. Außerdem kann m
 
 ### Verwandte Begriffe
 
-- Machine Learning ([ML](https://example.org/ml)): Methodenfamilie aus der Informatik zum Schätzen von Mustern in Daten. Schwieriger und umfangreicher als eine deskriptive Statistik.
+- Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml)): Methodenfamilie aus der Informatik zum Schätzen von Mustern in Daten. Schwieriger und umfangreicher als eine deskriptive Statistik.
 
 - Explorative Datenanalyse (EDA): Deskriptive Statistik ist zwar fester Bestandteil einer explorativen Datenanalyse, jedoch im Umfang wesentlich kürzer und für gewöhnlich nicht ausreichend, um Interpretationen und Zusammenhänge in den Daten herzustellen.
 

@@ -69,7 +69,9 @@ clean_collapsed <- function(content) {
 }
 
 replace_example_com <- function(lines) {
-  str_replace_all(lines, "https://example.com/", BASE_URL)
+  lines %>% 
+    str_replace_all("https://(www.)?example.com/", BASE_URL) %>% 
+    str_replace_all("https://(www.)?example.org/", BASE_URL) # some also used .org hehe
 }
 
 
@@ -85,6 +87,11 @@ get_file_name <- function(title, id, ext = "md") {
 
 
 check_for_errors <- function(content, title, valid_slugs, markdown_strict = USE_MAKRDOWN_STRICT) {
+  
+  # slugs are linked that do not exist as a term
+  example_links <- str_detect(content, 
+                                "https://(www.)?example.com|https://(www.)?example.org")
+  stopifnot(!example_links)
   
   # slugs are linked that do not exist as a term
   linked_slugs <- str_match_all(content, 

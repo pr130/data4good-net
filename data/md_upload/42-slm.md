@@ -37,7 +37,7 @@ Hinweis: Da SLMs ein Teilgebiet [generativer KI](https://civic-data.de/selbstler
 
 ## Mehr zu SLM
 
-- Viele [SLM](https://example.org/slm)s entstehen durch Kompressionsverfahren (z. B. Knowledge Distillation, de: Wissensdestillierung), bei denen ein großes Modell „zusammengefasst“ wird. Dabei wird ein großes Modell (en: “Teacher”, de: “Lehrer\*in”) genutzt um ein kleineres Modell (en: “Student”, de: “Schüler\*in”) mit Inhalt zu füllen.
+- Viele [SLM](https://civic-data.de/selbstlernmaterial/#slm)s entstehen durch Kompressionsverfahren (z. B. Knowledge Distillation, de: Wissensdestillierung), bei denen ein großes Modell „zusammengefasst“ wird. Dabei wird ein großes Modell (en: “Teacher”, de: “Lehrer\*in”) genutzt um ein kleineres Modell (en: “Student”, de: “Schüler\*in”) mit Inhalt zu füllen.
 
 - Beispiele für SLM (Stand Februar 2025):
 
@@ -69,13 +69,13 @@ Hinweis: Da SLMs ein Teilgebiet [generativer KI](https://civic-data.de/selbstler
 
 ### Verwandte Begriffe
 
-- Large Language Model ([LLM](https://example.org/llm)): Ursprüngliche und größere Variante von Sprachmodellen.
+- Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)): Ursprüngliche und größere Variante von Sprachmodellen.
 
-- [Generative KI](https://example.org/generative-ki): Oberbegriff für Computermodelle, die zu einer gegebenen Anfrage Daten wie Text oder Bilder generieren. Ein SLM ist ein generatives KI-Modell.
+- [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki): Oberbegriff für Computermodelle, die zu einer gegebenen Anfrage Daten wie Text oder Bilder generieren. Ein SLM ist ein generatives KI-Modell.
 
-- [ChatGPT](https://example.org/chatgpt): Ein populärer Chatbot von der Firma OpenAI, der sowohl [SLM](https://example.org/slm)s als auch [LLM](https://example.org/llm)s nutzen kann um mit Menschen über Text zu interagieren.
+- [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt): Ein populärer Chatbot von der Firma OpenAI, der sowohl [SLM](https://civic-data.de/selbstlernmaterial/#slm)s als auch [LLM](https://civic-data.de/selbstlernmaterial/#llm)s nutzen kann um mit Menschen über Text zu interagieren.
 
-- [RAG](https://example.org/rag): Ein System, welches [SLM](https://example.org/slm)s oder [LLM](https://example.org/llm)s gemeinsam mit einer Datenbank verwendet um Antworttexte auf Informationen aus der Datenbank zu basieren.
+- [RAG](https://civic-data.de/selbstlernmaterial/#rag): Ein System, welches [SLM](https://civic-data.de/selbstlernmaterial/#slm)s oder [LLM](https://civic-data.de/selbstlernmaterial/#llm)s gemeinsam mit einer Datenbank verwendet um Antworttexte auf Informationen aus der Datenbank zu basieren.
 
 ## Weiterführende Materialien
 

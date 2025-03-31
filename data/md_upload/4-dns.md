@@ -7,7 +7,7 @@ Deutsche Übersetzung: Domain-Namen-System
 
 ### Definition
 
-Das DNS (Domain Name System) ist wie ein riesiges Telefonbuch für das Internet. Es enthält Einträge (en: Records) für alle Internetadressen (de: Domäne, en: Domain, z.B. google.com oder civic-data.de). Das DNS verwendet die Records, um für Domains Informationen (z.B. IP-Adressen) nachzuschlagen, die Computer verstehen. Das DNS ist ein weltweit verteiltes Netz aus [Servern](https://example.org/server), das speziell für diese Aufgabe existiert .
+Das DNS (Domain Name System) ist wie ein riesiges Telefonbuch für das Internet. Es enthält Einträge (en: Records) für alle Internetadressen (de: Domäne, en: Domain, z.B. google.com oder civic-data.de). Das DNS verwendet die Records, um für Domains Informationen (z.B. IP-Adressen) nachzuschlagen, die Computer verstehen. Das DNS ist ein weltweit verteiltes Netz aus [Servern](https://civic-data.de/selbstlernmaterial/#server), das speziell für diese Aufgabe existiert .
 
 ### Beispiele
 
@@ -37,9 +37,9 @@ DNS ist dann relevant, wenn…
 
 - In einer größeren Organisation ist meistens die Haus-IT oder ein externer Dienstleister für das Einrichten und das Management von Domains zuständig.
 
-- Wenn ihr eine Datenanwendung oder [WebApp](https://example.org/webapp) entwickelt oder entwickeln lasst, die ihr im Internet bereitstellen wollt, ist das Kaufen einer neuen Domain (meindashboard.org) oder das Hinzufügen von einer Subdomain zu einer bestehenden Domain (dashboard.meineorga.de) notwendig.
+- Wenn ihr eine Datenanwendung oder [WebApp](https://civic-data.de/selbstlernmaterial/#webapp) entwickelt oder entwickeln lasst, die ihr im Internet bereitstellen wollt, ist das Kaufen einer neuen Domain (meindashboard.org) oder das Hinzufügen von einer Subdomain zu einer bestehenden Domain (dashboard.meineorga.de) notwendig.
 
-  - Ihr könnt eine neue Domain im Internet bei einem Web[hosting](https://example.org/hosting)-Anbieter (z.B. IONOS, Hetzner, …) oder anderen spezifischen Anbietern kaufen. Hierbei entstehen jährliche Kosten von ca. 10 - 50 Euro.
+  - Ihr könnt eine neue Domain im Internet bei einem Web[hosting](https://civic-data.de/selbstlernmaterial/#hosting)-Anbieter (z.B. IONOS, Hetzner, …) oder anderen spezifischen Anbietern kaufen. Hierbei entstehen jährliche Kosten von ca. 10 - 50 Euro.
 
   - Um eine Subdomain zu eurer bestehenden Domain hinzuzufügen, müsst ihr ihre DNS-Records konfigurieren.
 

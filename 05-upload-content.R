@@ -72,6 +72,15 @@ upload <- joined %>%
   select(id, slug, title, category, prio, authors, cc, md, links_to = linked_ids)
 # id	slug	title	category	prio	authors	cc 	md	html	links_to
 
+# make sure no term is missing
+max_id <- kanban %>% 
+  filter(status != "Backlog") %>% 
+  pull(id) %>% max()
+
+missing <- setdiff(1:max_id, upload$id)
+if (length(missing) > 0) print(glue::glue("Term {kanban$slug[kanban$id %in% missing]} missing"))
+stopifnot(length(missing) == 0)
+
 # upload to google sheet
 print("Uploading dataset to google sheets")
 googlesheets4::sheet_write(upload, 

@@ -156,7 +156,7 @@ Wenn du noch mehr über Hosting erfahren möchtest, schaue dir die folgenden Res
 
 - Video: [Was ist Hosting?](https://youtu.be/btTkgqMI3A4?feature=shared) (de)
 
-- [awesome-selfhosted](https://awesome-selfhosted.net/): Website, die Software sammelt, die selbst gehostet werden kann (en)","2,3,27,26,36,37,39"
+- [awesome-selfhosted](https://awesome-selfhosted.net/): Website, die Software sammelt, die selbst gehostet werden kann (en)","2,3,20,27,4,26,36,37,39"
 2,server,Server,1 - Grundlagen,10 - zentraler Begriff,"Sören Etler, Leo Preu, Antje Relitz","""Server"" in CDL Selbstlernmaterial von Sören Etler, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Server
 ## Erklärung
 
@@ -256,7 +256,7 @@ Das Client-Server-Modell ist eine grundlegende Architektur im Internet. Moderne 
 
 - **Peer-to-Peer (P2P)**: Ein Modell, bei dem es keine zentrale Server-Struktur gibt, sondern Geräte direkt miteinander kommunizieren.
 
-- **Cloud Computing**: Server werden als Dienstleistung von externen [Cloud](https://www.example.com//cloud)-Anbietern bereitgestellt.
+- **Cloud Computing**: Server werden als Dienstleistung von externen [Cloud](https://civic-data.de/selbstlernmaterial/#cloud)-Anbietern bereitgestellt.
 
 - **API:** Eine [API](https://civic-data.de/selbstlernmaterial/#api) ist eine Schnittstelle zwischen zwei Anwendungen. Sie ermöglicht es der einen Anwendung (Client) in einer strukturierten Form die Funktionen einer anderen Anwendung (Server) zu nutzen.
 
@@ -271,7 +271,7 @@ Wenn du noch mehr über Server und Clients erfahren möchtest, schaue dir die fo
 - [What is a Server? Servers vs Desktops Explained](https://www.youtube.com/watch?v=UjCDWCeHCzY) (en)
 
 - “[Das Client-Server Modell einfach erklärt](https://youtu.be/LwziP-ZrbUs?si=-oO3WVOBG586Vy44)” (de)
-","1,3,22,24,25,27,29,39"
+","1,3,20,22,24,25,27,4,29,39"
 3,cloud,Cloud,1 - Grundlagen,10 - zentraler Begriff,"Antje Relitz, Leo Preu","""Cloud"" in CDL Selbstlernmaterial von Antje Relitz, Leo Preu, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Cloud
 ## Erklärung
 
@@ -404,7 +404,7 @@ Wenn du noch mehr über die Cloud erfahren möchtest, schaue dir die folgenden R
 - Video: [Cloud Computing in 2 Minutes](https://youtu.be/N0SYCyS2xZA?feature=shared) (en)
 
 - Eine kurze Video-Einführung in Cloud Computing: [Cloud Computing In 6 Minutes | What Is Cloud Computing? | Cloud Computing Explained | Simplilearn](https://www.youtube.com/watch?v=M988_fsOSWo) (en)
-","1,2,8,22,25,28,36,37,41,14,27,29"
+","1,2,8,20,22,25,28,36,37,41,14,27,29"
 4,dns,DNS,1 - Grundlagen,1 - fällt nur in bestimmten Umständen,"Leili Riazy, Leo Preu, Antje Relitz","""DNS"" in CDL Selbstlernmaterial von Leili Riazy, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# DNS
 ## Erklärung
 
@@ -414,7 +414,7 @@ Deutsche Übersetzung: Domain-Namen-System
 
 ### Definition
 
-Das DNS (Domain Name System) ist wie ein riesiges Telefonbuch für das Internet. Es enthält Einträge (en: Records) für alle Internetadressen (de: Domäne, en: Domain, z.B. google.com oder civic-data.de). Das DNS verwendet die Records, um für Domains Informationen (z.B. IP-Adressen) nachzuschlagen, die Computer verstehen. Das DNS ist ein weltweit verteiltes Netz aus [Servern](https://example.org/server), das speziell für diese Aufgabe existiert .
+Das DNS (Domain Name System) ist wie ein riesiges Telefonbuch für das Internet. Es enthält Einträge (en: Records) für alle Internetadressen (de: Domäne, en: Domain, z.B. google.com oder civic-data.de). Das DNS verwendet die Records, um für Domains Informationen (z.B. IP-Adressen) nachzuschlagen, die Computer verstehen. Das DNS ist ein weltweit verteiltes Netz aus [Servern](https://civic-data.de/selbstlernmaterial/#server), das speziell für diese Aufgabe existiert .
 
 ### Beispiele
 
@@ -444,9 +444,9 @@ DNS ist dann relevant, wenn…
 
 - In einer größeren Organisation ist meistens die Haus-IT oder ein externer Dienstleister für das Einrichten und das Management von Domains zuständig.
 
-- Wenn ihr eine Datenanwendung oder [WebApp](https://example.org/webapp) entwickelt oder entwickeln lasst, die ihr im Internet bereitstellen wollt, ist das Kaufen einer neuen Domain (meindashboard.org) oder das Hinzufügen von einer Subdomain zu einer bestehenden Domain (dashboard.meineorga.de) notwendig.
+- Wenn ihr eine Datenanwendung oder [WebApp](https://civic-data.de/selbstlernmaterial/#webapp) entwickelt oder entwickeln lasst, die ihr im Internet bereitstellen wollt, ist das Kaufen einer neuen Domain (meindashboard.org) oder das Hinzufügen von einer Subdomain zu einer bestehenden Domain (dashboard.meineorga.de) notwendig.
 
-  - Ihr könnt eine neue Domain im Internet bei einem Web[hosting](https://example.org/hosting)-Anbieter (z.B. IONOS, Hetzner, …) oder anderen spezifischen Anbietern kaufen. Hierbei entstehen jährliche Kosten von ca. 10 - 50 Euro.
+  - Ihr könnt eine neue Domain im Internet bei einem Web[hosting](https://civic-data.de/selbstlernmaterial/#hosting)-Anbieter (z.B. IONOS, Hetzner, …) oder anderen spezifischen Anbietern kaufen. Hierbei entstehen jährliche Kosten von ca. 10 - 50 Euro.
 
   - Um eine Subdomain zu eurer bestehenden Domain hinzuzufügen, müsst ihr ihre DNS-Records konfigurieren.
 
@@ -483,7 +483,7 @@ Wenn du noch mehr über DNS erfahren möchtest, schaue dir die folgenden Ressour
 - [Life of a DNS query](https://wizardzines.com/comics/life-of-a-dns-query/) Comic (englisch)
 
 - [Chaosradio Express Episode über DNS](https://cre.fm/cre099-domain-name-system) (Podcast)
-",NA
+","1,2,20"
 5,zertifikat,Zertifikat,1 - Grundlagen,1 - fällt nur in bestimmten Umständen,"Antje Relitz, Leo Preu","""Zertifikat"" in CDL Selbstlernmaterial von Antje Relitz, Leo Preu, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Zertifikat
 ## Erklärung
 An dieser Seite arbeiten wir noch.
@@ -574,6 +574,51 @@ An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
 ",26
+11,cicd,CI/CD,2 - Software-Entwicklung,5 - fällt häufig,Marcus Voß,"""CI/CD"" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# CI/CD
+## Erklärung
+An dieser Seite arbeiten wir noch.
+
+## Wann ist CI/CD für euch relevant?
+An dieser Seite arbeiten wir noch.
+
+## Was sind die Implikationen von CI/CD für euch? 
+An dieser Seite arbeiten wir noch.
+
+## Mehr zu Datenanalyse   
+An dieser Seite arbeiten wir noch.
+
+## Weiterführende Materialien
+",14
+12,deployment,Deployment,2 - Software-Entwicklung,5 - fällt häufig,Marcus Voß,"""Deployment"" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Deployment
+## Erklärung
+An dieser Seite arbeiten wir noch.
+
+## Wann ist Deployment für euch relevant?
+An dieser Seite arbeiten wir noch.
+
+## Was sind die Implikationen von Deployment für euch? 
+An dieser Seite arbeiten wir noch.
+
+## Mehr zu Datenanalyse   
+An dieser Seite arbeiten wir noch.
+
+## Weiterführende Materialien
+",NA
+13,git,Git,2 - Software-Entwicklung,5 - fällt häufig,Marcus Voß,"""Git"" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Git
+## Erklärung
+An dieser Seite arbeiten wir noch.
+
+## Wann ist Git für euch relevant?
+An dieser Seite arbeiten wir noch.
+
+## Was sind die Implikationen von Git für euch? 
+An dieser Seite arbeiten wir noch.
+
+## Mehr zu Datenanalyse   
+An dieser Seite arbeiten wir noch.
+
+## Weiterführende Materialien
+",14
 14,devops,DevOps,2 - Software-Entwicklung,1 - fällt nur in bestimmten Umständen,Marcus Voß,"""DevOps"" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# DevOps
 ## Erklärung
 
@@ -683,7 +728,8 @@ Wenn du noch mehr über agil erfahren möchtest, schaue dir die folgenden Ressou
 
 - [11 Tipps und Ressourcen](https://about.gitlab.com/de-de/topics/devops/devops-beginner-resources/) für den Einstieg von Gitlab, wie z.B. dieses [kostenlose ebook](https://learn.gitlab.com/beginners-guide-devops/guide-to-devops) mit den Grundlagen. (de und en)
 
-- Buch: “Projekt Phoenix: Der Roman über IT und DevOps” (Gene Kim, Kevin Behr, George Spafford)","3,15,16"
+- Buch: “Projekt Phoenix: Der Roman über IT und DevOps” (Gene Kim, Kevin Behr, George Spafford)
+","3,11,13,15,16"
 15,agil,Agil,2 - Software-Entwicklung,10 - zentraler Begriff,Marcus Voß,"""Agil"" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Agil
 ## Erklärung
 
@@ -807,7 +853,7 @@ Wenn du noch mehr über agil erfahren möchtest, schaue dir die folgenden Ressou
 - [Agile goes Nonprofit](https://agile-goes-nonprofit.de/)[:](https://agathe-hilft.de/) Eine Lernplattform der deutschen Umweltstiftung und swapwork, die gemeinnützigen Projekten und Akteuren hilft, agile Methoden umzusetzen. (de)
 
 - [Agathe hilft](https://agathe-hilft.de/): Ehrenamtliche Coaches helfen gemeinnützigen Organisationen und Initiativen bei der Einführung agiler Ansätze. Das Angebot ist kostenlos. (de)
-","16,17,18,19,14"
+","16,17,18,19,20,14"
 16,wasserfall,Wasserfall,2 - Software-Entwicklung,1 - fällt nur in bestimmten Umständen,Marcus Voß,"""Wasserfall"" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Wasserfall
 ## Erklärung
 An dieser Seite arbeiten wir noch.
@@ -994,6 +1040,86 @@ An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
 ","15,17"
+20,webapp,WebApp,3 - Anwendungstypen und Schnittstellen,5 - fällt häufig,"Leo Preu, Antje Relitz","""WebApp"" in CDL Selbstlernmaterial von Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# WebApp
+## Erklärung
+
+### Synonyme & Übersetzungen
+
+Deutsche Übersetzung: Web-Anwendung
+
+Auch bekannt unter: WebApplication, Online-Anwendung
+
+### Definition
+
+*Definition des Begriffs, kurze Erklärung. Maximal 3-4 Sätze.*
+
+WebApps sind Software-Anwendungen, die direkt in einem Webbrowser (wie z.B. Firefox, Edge oder Chrome) laufen - ohne dass sie auf dem eigenen Rechner installiert werden müssen. Mithilfe der WebApp kann der\*die Nutzer\*in eine bestimmte Aufgabe durchführen.
+
+WebApps werden heutzutage vorzugsweise *mobile-first* (de: “mobil zuerst”) entwickelt. Das heißt, es wird erst einmal darauf geachtet, dass die WebApp gut auf mobilen Endgeräten (Smartphones, Tablets) funktioniert.
+
+### Beispiele
+
+Beispiele für WebApps sind unter anderem:
+
+- der E-Mail Dienst [GMail](https://mail.google.com/)
+
+- das Umfrage-Tool [KoboToolbox](https://www.kobotoolbox.org/)
+
+- [online-wuerfel.de](http://online-wuerfel.de) (Beispiel für eine einfache WebApp)
+
+- [Chatbots](https://comms4good.de/) und [interaktive Dashboards](https://interaktiv.tagesspiegel.de/lab/landtagswahl-brandenburg-ergebnisse-karten-historisch/)
+
+- Die interaktive Plattform [Leerstandsmelder](https://leerstandsmelder.de/) für mehr Transparenz über leerstehende Flächen
+
+- Der [“das steht dir zu” - Rechner](https://www.das-steht-dir-zu.de/arbeit/buergergeld/der-buergergeld-rechner/) der Caritas, mit dem man sich seine individuellen Leistungsansprüche berechnen kann
+
+## Wann sind WebApps für euch relevant? 
+
+WebApps sind dann relevant, wenn…
+
+- ihr eine Datenanwendung über den Browser zugänglich machen wollt
+
+- wenn eine komplexere Anwendung auf euren Daten aufgebaut werden soll
+
+## Was sind die Implikationen von WebApps für euch? 
+
+- Selbst entwickelte WebApps müssen [gehostet](https://civic-data.de/selbstlernmaterial/#hosting) werden. Dafür benötigt ihr ggf. zusätzliche finanzielle Ressourcen.
+
+- Für die eigene (Weiter-)Entwicklung und den Betrieb von WebApps sind meistens Kenntnisse in [Programmiersprachen](https://civic-data.de/selbstlernmaterial/#programmiersprache) wie Python und Javascript nötig. Wenn ihr diese nicht habt, müsst ihr ggf. einen Dienstleister beauftragen, um den mittelfristigen Betrieb sicherzustellen.
+
+- Bei selbst entwickelten WebApps liegen die Daten auf einem [Server](https://civic-data.de/selbstlernmaterial/#server) im Internet. Das bringt Anforderungen an Datensicherheit und -schutz mit sich.
+
+## Mehr zu WebApps
+
+WebApps haben in den letzten 15 Jahren stark an Bedeutung gewonnen. Viele Websites heutzutage sind WebApps.
+
+WebApps folgen klassischerweise dem [Server](https://civic-data.de/selbstlernmaterial/#server)-Client Modell. Der Nutzer interagiert mit der Anwendung in seinem Browser (=Client). Der Input des Nutzers (z.B. Setzen eines Filters) wird an den Server geschickt, der wiederum Ergebnisse oder Inhalte zurückspielt (z.B. gefilterte Liste der Ergebnisse).
+
+### Vorteile von WebApps
+
+- WebApps sind leicht zu warten und zu aktualisieren, da Anpassungen nur an zentralen Stellen gemacht werden müssen → alle Nutzer\*innen greifen immer auf die aktuellste Version zu
+
+- WebApps sind von jedem Gerät über einen Browser zugänglich (unabhängig vom Betriebssystem) und daher einfacher und damit auch günstiger in der Entwicklung als native Apps
+
+### Nachteile von WebApps
+
+- Man benötigt eine Internetverbindung, um eine WebApp zu benutzen - das kann zum Beispiel problematisch sein, wenn die App auch unterwegs nutzbar sein soll (es gibt allerdings auch die Möglichkeit, durch Zwischenspeicherung WebApps auch ohne dauerhafte Internetverbindung offline verfügbar zu machen.
+
+### Verwandte Begriffe
+
+- WebApps entgegengestellt sind die nativen Apps, die heruntergeladen und installiert werden müssen, z.B. aus dem AppStore für Apple-Geräte, dem Play Store für Android Geräte oder als Installationsdatei, z.B. für Microsoft Word. Anwendungen, die man auf einem Rechner installiert, nennt man Desktopanwendungen.
+
+- Alle WebApps sind Websites, aber nicht alle Websites sind WebApps. Der Begriff Website umfasst alle Inhalte und Seiten, die unter einer Internetadresse (URL) aufrufbar sind. Da WebApps über eine Internetadresse aufrufbar sind, sind sie auch Websites. Websites werden aber nur als WebApps angesehen, wenn sie nicht nur statische Informationen darstellen, sondern besonders interaktiv sind und erweiterte Funktionalitäten beinhalten.
+
+## Weiterführende Materialien
+
+Wenn du noch mehr über WebApps erfahren möchtest, schaue dir die folgenden Ressourcen an:
+
+- [Wikipedia-Eintrag](https://de.wikipedia.org/wiki/Webanwendung)
+
+- [What is a Web App? Web App vs. Native App](https://youtu.be/qt6gSW-uYKI) (YouTube, en)
+
+- [Everything You NEED to Know About WEB APP Architecture](https://youtu.be/sDlCSIDwpDs) (YouTube, en)","1,2,35,3,4,15,27,37"
 21,mobileapp,Mobile App,3 - Anwendungstypen und Schnittstellen,1 - fällt nur in bestimmten Umständen,Sören Etler,"""Mobile App"" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Mobile App
 ## Erklärung
 An dieser Seite arbeiten wir noch.
@@ -1170,11 +1296,11 @@ vgl. auch Nachteile von [Generativer KI](https://civic-data.de/selbstlernmateria
 
 - [LLM](https://civic-data.de/selbstlernmaterial/#llm) (Large Language Model): Large Language Models sind [Generative-KI](https://civic-data.de/selbstlernmaterial/#generative-ki) Modelle, die die Fähigkeit haben, mithilfe von gelernten statistischen Mustern neue Texte zu generieren, welche natürliche Sprache nachahmen. Gerade die populären KI-gestützten Chatbots verwenden LLMs, um Sprache zu verarbeiten und Antworten zu generieren.
 
-- Retrieval-Augmented Generation ([RAG](https://civic-data.de/selbstlernmaterial/#rag)) ist eine Erweiterung von Large Language Models ([LLM](https://example.org/llm)s), bei der zusätzliche Informationen (z.B. eine Sammlung von PDFs) in die Generierung von Texten miteinbezogen werden. Ein RAG-Ansatz kann verwendet werden, um einen Chatbot auf einen bestimmten Kontext auszurichten und die Qualität von Antworten durch Einbeziehen von spezifischen Fachinformationen zu erhöhen.
+- Retrieval-Augmented Generation ([RAG](https://civic-data.de/selbstlernmaterial/#rag)) ist eine Erweiterung von Large Language Models ([LLM](https://civic-data.de/selbstlernmaterial/#llm)s), bei der zusätzliche Informationen (z.B. eine Sammlung von PDFs) in die Generierung von Texten miteinbezogen werden. Ein RAG-Ansatz kann verwendet werden, um einen Chatbot auf einen bestimmten Kontext auszurichten und die Qualität von Antworten durch Einbeziehen von spezifischen Fachinformationen zu erhöhen.
 
 - [SLM](https://civic-data.de/selbstlernmaterial/#slm) (Small Language Model): SLMs sind weniger leistungsstark als Large Language Models, aber weitaus flexibler, weniger ressourcenintensiv und somit günstiger einsetzbar. Ein Chatbot kann ein SLM verwenden, um Sprache zu verarbeiten und Antworten zu generieren. Mit einem leistungsstarken Computer könnt ihr einen solchen Chatbot sogar lokal auf eurem Rechner laufen lassen.
 
-- [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt): ein [Chatbot](https://example.org/chatbot), der von der Firma OpenAI entwickelt wurde. ChatGPT verwendet LLM-Modelle von OpenAI.
+- [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt): ein [Chatbot](https://civic-data.de/selbstlernmaterial/#chatbot), der von der Firma OpenAI entwickelt wurde. ChatGPT verwendet LLM-Modelle von OpenAI.
 
 - [KI](https://civic-data.de/selbstlernmaterial/#ki) (Künstliche Intelligenz): Künstliche Intelligenz (de: KI, en: AI) umfasst Modelle und Anwendungen , die die Fähigkeit haben, menschenähnliches Verhalten in eng umrissenen Domänen mithilfe von mathematischen Methoden nachzuahmen. Moderne Chatbots sind ein Beispiel für eine KI-Anwendung, da sie die Fähigkeit haben, mithilfe von mathematischen Methoden (Large Language Models) menschliche Sprache nachzuahmen.
 
@@ -1185,7 +1311,7 @@ Wenn du noch mehr über Chatbots erfahren möchtest, schaue dir die folgenden Re
 - [Wie funktioniert ein Chatbot und wann lohnt sich der Aufwand für kleine Unternehmen | Kurz erklärt](https://www.youtube.com/watch?v=4ks3RY6lSRQ) (de)
 
 - Eine [Studie von Microsoft](https://www.forbes.com/sites/dimitarmixmihov/2025/02/11/ai-is-making-you-dumber-microsoft-researchers-say/), die zeigt, dass die vermehrte Nutzung von KI Chatbots zu weniger kritischem Denken führt (en)
-","1,10,36,37,39,40,41,42,43"
+","1,10,26,36,37,39,40,41,42,43"
 27,datenbank,Datenbank,4 - Datentools,10 - zentraler Begriff,"Asim Alsabagh, Leo Preu, Antje Relitz","""Datenbank"" in CDL Selbstlernmaterial von Asim Alsabagh, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Datenbank
 ## Erklärung
 
@@ -1290,7 +1416,7 @@ Wenn du noch mehr über Datenbanken erfahren möchtest, schaue dir die folgenden
 - [Database vs Data Warehouse vs Data Lake | What is the Difference?](https://www.youtube.com/watch?v=-bSkREem8dM) (YouTube, englisch)
 
 - [Datenbank Grundlagen einfach erklärt](https://www.youtube.com/watch?v=-LJYaXfR2X4) (YouTube, deutsch)
-","1,2,3,28,29,30,31,34,33,36"
+","1,2,3,20,28,29,30,31,34,33,36"
 28,dbms,Datenbankmanagementsystem (DBMS),4 - Datentools,1 - fällt nur in bestimmten Umständen,Asim Alsabagh,"""Datenbankmanagementsystem (DBMS)"" in CDL Selbstlernmaterial von Asim Alsabagh, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Datenbankmanagementsystem (DBMS)
 ## Erklärung
 An dieser Seite arbeiten wir noch.
@@ -1740,7 +1866,7 @@ An dieser Seite arbeiten wir noch.
 An dieser Seite arbeiten wir noch.
 
 ## Weiterführende Materialien
-","33,34,37"
+","20,33,34,37"
 36,ki,Künstliche Intelligenz (KI),5 - Datenmethoden,10 - zentraler Begriff,"Leili Riazy, Leo Preu, Antje Relitz","""Künstliche Intelligenz (KI)"" in CDL Selbstlernmaterial von Leili Riazy, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Künstliche Intelligenz (KI)
 ## Erklärung
 
@@ -1760,7 +1886,7 @@ Der Begriff Künstliche Intelligenz (de: KI, en: AI) umfasst Modelle und Anwendu
 
 - Ein anderes Einsatzgebiet von KI sind Autos, die mithilfe der Daten von Sensoren und Kameras, von denen KI-Modelle kontinuierlich lernen, eigenständig fahren können.
 
-- Ein weiteres Beispiel für eine KI Anwendung sind automatisierte Text- oder Sprachsysteme, die auf Kundenanfragen reagieren und Antworten generieren. Viele Firmen bieten heutzutage einen Chatbot (ähnlich wie [ChatGPT](https://example.org/chatgpt)) auf ihrer Website an, um Fragen zu beantworten. Der Verein Politik zum Anfassen e.V. hat seine Daten zu Jugendbeteiligungsprojekten mithilfe eines [Chatbots](https://app.kommuki.syndicats.de/chat) erlebbar und durchsuchbar gemacht.
+- Ein weiteres Beispiel für eine KI Anwendung sind automatisierte Text- oder Sprachsysteme, die auf Kundenanfragen reagieren und Antworten generieren. Viele Firmen bieten heutzutage einen Chatbot (ähnlich wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt)) auf ihrer Website an, um Fragen zu beantworten. Der Verein Politik zum Anfassen e.V. hat seine Daten zu Jugendbeteiligungsprojekten mithilfe eines [Chatbots](https://app.kommuki.syndicats.de/chat) erlebbar und durchsuchbar gemacht.
 
 - In der Zivilgesellschaft werden KI-Modelle zum Beispiel benutzt, um Imker zu warnen, wenn ihr Bienen ausschwärmen (in diesem Fall lernt die KI von Sensordaten aus dem Bienenstock) - weiterführende Informationen zum BeeObserver findet ihr [hier](https://www.correlaid.org/daten-nutzen/projektdatenbank/2019-10-BEE/)
 
@@ -1798,13 +1924,13 @@ Die Möglichkeiten, die sich durch den Einsatz von KI-Software eröffnen, sind v
 
 ### Vorteile von KI
 
-- Wiederkehrende Aufgaben können schneller und präziser erledigt werden. Häufig wird hierfür [Machine Learning (ML)](https://example.org/ml) verwendet.
+- Wiederkehrende Aufgaben können schneller und präziser erledigt werden. Häufig wird hierfür [Machine Learning (ML)](https://civic-data.de/selbstlernmaterial/#ml) verwendet.
 
 - Heutzutage existieren für vielen Problemstellungen schon vorgefertige KI Systeme, auf die man eigene Lösungen aufbauen kann
 
   - z.B. [Large Language Models](https://civic-data.de/selbstlernmaterial/#llm), die in Chatbots wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) eingesetzt werden
 
-  - Generative KI Modelle, die Bilder erzeugen können, wie z.B. [Midjourney](https://www.midjourney.com/home) helfen z.B. bei der Erstellung von Social Media Beiträgen. Lest hierzu in unserem Kapitel über [Generative KI](https://example.org/generative-ai) mehr.
+  - Generative KI Modelle, die Bilder erzeugen können, wie z.B. [Midjourney](https://www.midjourney.com/home) helfen z.B. bei der Erstellung von Social Media Beiträgen. Lest hierzu in unserem Kapitel über [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki) mehr.
 
 ### Nachteile von KI
 
@@ -1820,17 +1946,17 @@ Die Möglichkeiten, die sich durch den Einsatz von KI-Software eröffnen, sind v
 
 - KI Modelle scheitern häufig an Problemen, die für Menschen absolut einfach sind. Es ist relativ unvorhersehbar, welche diese Themen sind, die für KI Modelle besonders schwer sind. Ein Beispiel ist, dass viele KI Sprachmodelle daran scheitern, zu zählen, wie oft der Buchstabe “r” im Wort “strawberry” vorkommt (s. dazu diesen [Artikel](https://www.inc.com/kit-eaton/how-many-rs-in-strawberry-this-ai-cant-tell-you.html)).
 
-- Forschung, Entwicklung und Implementierung von KI Modellen sind anspruchsvoll und kostenintensiv. Die Entwicklung des Modells GPT-4 hinter der beliebten Anwendung [ChatGPT](https://example.org/chatgpt) hat laut CEO der entwickelnden Firma mehr als $100 Millionen gekostet.Gerade die großen KI-Modelle wie GPT verbrauchen enorme Strom- und Wasserressourcen. Mehr dazu könnt ihr in diesem [Blog Post](https://civic-data.de/klimafaktor-ki/) erfahren.
+- Forschung, Entwicklung und Implementierung von KI Modellen sind anspruchsvoll und kostenintensiv. Die Entwicklung des Modells GPT-4 hinter der beliebten Anwendung [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) hat laut CEO der entwickelnden Firma mehr als $100 Millionen gekostet.Gerade die großen KI-Modelle wie GPT verbrauchen enorme Strom- und Wasserressourcen. Mehr dazu könnt ihr in diesem [Blog Post](https://civic-data.de/klimafaktor-ki/) erfahren.
 
 ### Verwandte Begriffe
 
 - Artificial General Intelligence (AGI): Im Gegensatz zu KI wird auch häufig von einer “generalisierten” künstlichen Intelligenz gesprochen. Damit ist gemeint, dass ein KI System über verschiedene Anwendungen hinweg nutzbar ist. Bisherige Modelle sind in der Regel auf eine Anwendung optimiert, z.B. Textproduktion.
 
-- Machine Learning ([ML](https://example.org/ml)): Die Methodenfamilie hinter vielen KI Anwendungen.
+- Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml)): Die Methodenfamilie hinter vielen KI Anwendungen.
 
-- [Generative KI](https://example.org/generative-ai): Eine bestimmte Form von KI Systemen, die Daten (z.B. Text, Bilder oder Videos) generieren.
+- [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki): Eine bestimmte Form von KI Systemen, die Daten (z.B. Text, Bilder oder Videos) generieren.
 
-- Large Language Model ([LLM](https://example.org/llm)): Ein ML Modelltyp, der auf die Generierung von Text spezialisiert ist. LLMs werden für KI-Systeme wie [ChatGPT](https://example.org/chatgpt) verwendet, um das Chatten mit einem Menschen nachzuahmen.
+- Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)): Ein ML Modelltyp, der auf die Generierung von Text spezialisiert ist. LLMs werden für KI-Systeme wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) verwendet, um das Chatten mit einem Menschen nachzuahmen.
 
 - Small Language Model ([SLM](https://civic-data.de/selbstlernmaterial/#slm)): Kleinere Version von großen Sprachmodellen.
 
@@ -1849,7 +1975,7 @@ Die Möglichkeiten, die sich durch den Einsatz von KI-Software eröffnen, sind v
 - Blog Websites (z. B. [Towards Data Science](https://towardsdatascience.com/), [KDnuggets](https://www.kdnuggets.com/)).
 
 - Podcasts (z. B. [Data Skeptic](https://dataskeptic.com/))
-","1,3,27,33,37,38,41,42,43,26,34,39"
+","1,3,27,33,37,38,39,41,42,43,26,34"
 37,ml,Machine Learning (ML),5 - Datenmethoden,10 - zentraler Begriff,"Leili Riazy, Leo Preu, Antje Relitz","""Machine Learning (ML)"" in CDL Selbstlernmaterial von Leili Riazy, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Machine Learning (ML)
 ## Erklärung
 
@@ -1863,7 +1989,7 @@ Machine Learning (ML) ist ein Teilgebiet der Künstlichen Intelligenz ([KI](http
 
 ### Beispiele
 
-- Viele [KI](https://example.org/ki) Systeme wie [ChatGPT](https://example.org/chatgpt) basieren auf Methoden der Machine Learning Familie.
+- Viele [KI](https://civic-data.de/selbstlernmaterial/#ki) Systeme wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) basieren auf Methoden der Machine Learning Familie.
 
 - Die Wettervorhersage ist ein einfaches Anwendungsbeispiel von prädiktivem Machine Learning. Vergangene Temperaturdaten sowie Daten von unterschiedlichen Sensoren werden genutzt, um die Temperatur in der Zukunft zu schätzen.
 
@@ -1885,7 +2011,7 @@ Maschinelles Lernen ist für euch relevant, wenn …
 
 - … Bilder und Videos als Daten habt und Informationen aus diesen extrahieren möchtet
 
-- … Medien wie Texte, Bilder und Videos mit Hilfe von [generativer KI](https://example.org/generative-ai) erstellen wollt.
+- … Medien wie Texte, Bilder und Videos mit Hilfe von [generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki) erstellen wollt.
 
 Außerdem ist Machine Learning immer mehr im Alltag präsent - viele Software-Anwendungen haben inzwischen Elemente, die auf Machine Learning zurückgreifen (häufig als “[KI](https://civic-data.de/selbstlernmaterial/#ki)” vermarktet).
 
@@ -1895,7 +2021,7 @@ Außerdem ist Machine Learning immer mehr im Alltag präsent - viele Software-An
 
 - Um Machine Learning nutzen zu können, benötigt ihr hochwertige und diverse Daten. Viele Modelle benötigen eine bestimmte Menge an Daten, um valide Ergebnisse zu liefern. Gerade bei einer kleinen Anzahl von Beobachtungen in euren Daten solltet ihr euch daher fragen, ob es nicht sinnvoller ist, auf weniger komplexe Methoden zurückzugreifen, um Wissen zu extrahieren.
 
-- Um den Prozess der Methodenfindung einzugrenzen, muss in jedem Fall eine [deskriptive Statistik](https://example.org/deskriptive-statistik) erstellt werden, bevor die Modellierung mit ML beginnt.
+- Um den Prozess der Methodenfindung einzugrenzen, muss in jedem Fall eine [deskriptive Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik) erstellt werden, bevor die Modellierung mit ML beginnt.
 
 - Wenn ihr selbst Machine Learning anwenden möchtet, sind Programmierkenntnisse (insbesondere in den [Programmiersprachen](https://civic-data.de/selbstlernmaterial/#programmiersprache) Python oder R) von Vorteil. Einfache Modellierungen könnt ihr aber auch mit Software wie [Excel](https://www.microsoft.com/de-de/microsoft-365/excel?market=de), [KNIME](https://www.knime.com/) oder [Tableau](https://www.tableau.com/de-de) durchführen.
 
@@ -1923,11 +2049,11 @@ Machine Learning basiert auf Modellen, die aus Erfahrungen lernen. Je mehr Daten
 
 ### Nachteile von ML
 
-- Starke Abhängigkeit von den verwendeten Daten: Auf schlechten Daten trainierte Modelle können sich nach dem Training als unbrauchbar erweisen. Eine gründliche [deskriptive Statistik](https://example.org/deskriptive-statistik) und explorative [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) können dieser Gefahr vorbeugen.
+- Starke Abhängigkeit von den verwendeten Daten: Auf schlechten Daten trainierte Modelle können sich nach dem Training als unbrauchbar erweisen. Eine gründliche [deskriptive Statistik](https://civic-data.de/selbstlernmaterial/#deskriptive-statistik) und explorative [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) können dieser Gefahr vorbeugen.
 
 - Voreingenommenheit der Modelle: Bestehende Verzerrungen (en: Bias) in den Daten übertragen sich auf die Prognose des ML Modells (quasi eine ""Voreingenommenheit des Modells”). Man muss darum die Ergebnisse mit Vorsicht interpretieren oder ggf. aktiv gegen bestehende Verzerrungen aus der Vergangenheit korrigieren.
 
-- Schlechte Interpretierbarkeit: Große Modelle mit vielen Parametern, wie etwa ein Large Language Model ([LLM](https://example.org/llm)), sind schwierig in der Interpretierbarkeit. Sie werden häufig als “Black Box” bezeichnet, weil Entscheidungsprozesse nicht mehr nachvollziehbar sind - das ist besonders dann fragwürdig, wenn die Entscheidungen eines ML Modells direkten Einfluss auf Menschenleben haben (z.B. ML Recruiting Algorithmen, die automatisiert Lebensläufe analysieren und Kandidat\*innen ablehnen oder ML Banking Algorithmen, die aufgrund der bisherigen Ausgaben über den Kreditrahmen einer\*s Kund\*in entscheiden ).
+- Schlechte Interpretierbarkeit: Große Modelle mit vielen Parametern, wie etwa ein Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)), sind schwierig in der Interpretierbarkeit. Sie werden häufig als “Black Box” bezeichnet, weil Entscheidungsprozesse nicht mehr nachvollziehbar sind - das ist besonders dann fragwürdig, wenn die Entscheidungen eines ML Modells direkten Einfluss auf Menschenleben haben (z.B. ML Recruiting Algorithmen, die automatisiert Lebensläufe analysieren und Kandidat\*innen ablehnen oder ML Banking Algorithmen, die aufgrund der bisherigen Ausgaben über den Kreditrahmen einer\*s Kund\*in entscheiden ).
 
 - Mögliche Daten-Lecks: Da die Daten, aus denen ein ML Modell gelernt hat, in dieses Modell eingeflossen sind, kann es möglich sein, mit gezielten Angriffen auf das Modell diese Daten wieder zu rekonstruieren. So könnten z.B. die Anfragen, die ihr einem [LLM](https://civic-data.de/selbstlernmaterial/#llm) wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) schickt, in den Antworten, die das Modell anderen Nutzern gibt, wieder auftauchen.
 
@@ -1935,13 +2061,13 @@ Machine Learning basiert auf Modellen, die aus Erfahrungen lernen. Je mehr Daten
 
 ### Verwandte Begriffe
 
-- [KI](https://example.org/ki) (Künstliche Intelligenz): Systeme, die speziell für das Nachahmen von menschlichem Verhalten erstellt und genutzt werden. Häufig werden hierfür ML Methoden verwendet.
+- [KI](https://civic-data.de/selbstlernmaterial/#ki) (Künstliche Intelligenz): Systeme, die speziell für das Nachahmen von menschlichem Verhalten erstellt und genutzt werden. Häufig werden hierfür ML Methoden verwendet.
 
-- [Generative KI](https://example.org/generative-ai): Teilbereich von Machine Learning, bei dem das Ziel ist, Daten (z.B. Text oder Bilder) durch spezifische Anweisungen zu erstellen.
+- [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki): Teilbereich von Machine Learning, bei dem das Ziel ist, Daten (z.B. Text oder Bilder) durch spezifische Anweisungen zu erstellen.
 
-- Large Language Model ([LLM](https://example.org/llm)): Teilbereich von Machine Learning und Generativer KI, bei der auf eine Textanfrage eine Antwort generiert wird.
+- Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)): Teilbereich von Machine Learning und Generativer KI, bei der auf eine Textanfrage eine Antwort generiert wird.
 
-- Small Language Model ([SLM](https://example.org/slm)): Kleinere (aber immernoch große) Version von LLM.
+- Small Language Model ([SLM](https://civic-data.de/selbstlernmaterial/#slm)): Kleinere (aber immernoch große) Version von LLM.
 
 ## Weiterführende Materialien
 
@@ -1950,7 +2076,7 @@ Machine Learning basiert auf Modellen, die aus Erfahrungen lernen. Je mehr Daten
 - Viele weitere Online-Kurse zum Thema bei [KI-Campus](https://ki-campus.org/).
 
 - Die [Algorithmic Justice League](https://www.ajl.org/) setzt sich mit Bias und negativen Konsequenzen von ML-Modellen auseinander, z.B. im Kontext von Gesichtserkennungssoftware. Eine ähnliche, wenn auch allgemeinere, Rolle spielt [Algorithm Watch](https://algorithmwatch.org/de/) in Deutschland.
-","1,3,24,34,35,36,41,43,26,42"
+","1,3,20,24,34,35,36,38,39,41,42,43,26"
 38,deskriptive-statistik,Deskriptive Statistik,5 - Datenmethoden,5 - fällt häufig,"Leili Riazy, Antje Relitz","""Deskriptive Statistik"" in CDL Selbstlernmaterial von Leili Riazy, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Deskriptive Statistik
 ## Erklärung
 
@@ -1992,7 +2118,7 @@ Deskriptive Statistik ist für euch fast immer relevant, wenn ihr Daten auswerte
 
 - Deskriptive Statistiken sind ein essenzieller Bestandteil von Monitoring, z.B. von Outputs oder Outcomes in eurer Arbeit. Visuelle Darstellungen über Zeit machen Veränderungen sichtbar und statistische Kennzahlen wie Mittelwerte und Varianz geben euch Aufschluss über eure Arbeit.
 
-- Es ist wichtig, vor der Entwicklung oder Anwendung von komplexeren statistischen Methoden (z.B. [ML](https://example.org/ml) oder [KI](https://example.org/ki)-Modellen) deskriptive Statistiken zu berechnen. Sie zeigen euch, ob eure Daten die Voraussetzungen erfüllen, ob sie womöglich verzerrt sind oder ob Probleme mit der Datenqualität bestehen.
+- Es ist wichtig, vor der Entwicklung oder Anwendung von komplexeren statistischen Methoden (z.B. [ML](https://civic-data.de/selbstlernmaterial/#ml) oder [KI](https://civic-data.de/selbstlernmaterial/#ki)-Modellen) deskriptive Statistiken zu berechnen. Sie zeigen euch, ob eure Daten die Voraussetzungen erfüllen, ob sie womöglich verzerrt sind oder ob Probleme mit der Datenqualität bestehen.
 
 - Wenn ihr noch keine konkrete Fragestellung oder Anwendungsfall für eure Daten habt, ist eine explorative Datenanalyse (EDA) eine gute Wahl. In einer EDA berechnet ihr deskriptive Statistiken und erstellt Darstellungen eurer Daten mit dem Ziel, einen Überblick über die Daten zu bekommen, sie besser kennenzulernen und potenziell unbekannte, interessante Zusammenhänge zu finden.
 
@@ -2002,11 +2128,11 @@ Deskriptive Statistik ist für euch fast immer relevant, wenn ihr Daten auswerte
 
 - Mit Tabellenkalkulationsprogrammen (z.B. Excel, Google Sheets, OnlyOffice) könnt ihr selbst Mittelwerte berechnen oder einfache Grafiken erstellen. Solche Analysen sind kostengünstig und nach einer Einarbeitung meistens gut selbst durchführbar.
 
-- Neben Tabellenkalkulationsprogrammen sind Anwendungen aus dem Bereich [Datenvisualisierung](https://example.org/datenvisualisierung) und Business Intelligence auch häufig darauf ausgelegt, deskriptive Statistiken zu erstellen und explorative Datenanalysen durchzuführen.
+- Neben Tabellenkalkulationsprogrammen sind Anwendungen aus dem Bereich [Datenvisualisierung](https://civic-data.de/selbstlernmaterial/#datenvisualisierung) und Business Intelligence auch häufig darauf ausgelegt, deskriptive Statistiken zu erstellen und explorative Datenanalysen durchzuführen.
 
 ## Mehr zu deskriptiver Statistik
 
-Deskriptive Statistik ist oft ein vorgeschalteter Prozess, um festzustellen, ob Daten für die Modellierung [ML](https://example.org/ml) oder [KI](https://civic-data.de/selbstlernmaterial/#ki) genutzt werden könnten. Dort können grobe Fehler in den Daten auffallen.
+Deskriptive Statistik ist oft ein vorgeschalteter Prozess, um festzustellen, ob Daten für die Modellierung [ML](https://civic-data.de/selbstlernmaterial/#ml) oder [KI](https://civic-data.de/selbstlernmaterial/#ki) genutzt werden könnten. Dort können grobe Fehler in den Daten auffallen.
 
 ### Vorteile von deskriptiver Statistik
 
@@ -2018,7 +2144,7 @@ Deskriptive Statistik ist oft ein vorgeschalteter Prozess, um festzustellen, ob 
 
 ### Nachteile von deskriptiver Statistik
 
-- Jede Vereinfachung der Daten lässt einen Teil der Geschichte weg. Die Aussagekraft von einzelnen Kennzahlen wie dem Mittelwert ist limitiert. In vielen Situationen ist es sinnvoll, der deskriptiven Statistik eine tiefergehende [Datenanalyse](https://example.org/datenanalyse) anzuschließen.
+- Jede Vereinfachung der Daten lässt einen Teil der Geschichte weg. Die Aussagekraft von einzelnen Kennzahlen wie dem Mittelwert ist limitiert. In vielen Situationen ist es sinnvoll, der deskriptiven Statistik eine tiefergehende [Datenanalyse](https://civic-data.de/selbstlernmaterial/#datenanalyse) anzuschließen.
 
 - Es kann naheliegend wirken, aus Zusammenhängen wie Korrelationen Aussagen zur Ursache-Wirkung abzuleiten (z.B. “mehr Spendenaufrufe führen zu mehr Spenden”). Solche kausalen Interpretationen sind jedoch theoretisch häufig nicht zulässig, sollten nur mit Vorsicht getroffen und kritisch hinterfragt werden (siehe z.B. [diese Sammlung](https://www.tylervigen.com/spurious-correlations) von Beispielgrößen mit hoher Korrelation).
 
@@ -2084,7 +2210,7 @@ Hier sehen wir direkt noch einmal die Ausreißer-Woche in KW20. Außerdem kann m
 
 ### Verwandte Begriffe
 
-- Machine Learning ([ML](https://example.org/ml)): Methodenfamilie aus der Informatik zum Schätzen von Mustern in Daten. Schwieriger und umfangreicher als eine deskriptive Statistik.
+- Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml)): Methodenfamilie aus der Informatik zum Schätzen von Mustern in Daten. Schwieriger und umfangreicher als eine deskriptive Statistik.
 
 - Explorative Datenanalyse (EDA): Deskriptive Statistik ist zwar fester Bestandteil einer explorativen Datenanalyse, jedoch im Umfang wesentlich kürzer und für gewöhnlich nicht ausreichend, um Interpretationen und Zusammenhänge in den Daten herzustellen.
 
@@ -2103,7 +2229,7 @@ Hier sehen wir direkt noch einmal die Ausreißer-Woche in KW20. Außerdem kann m
   - [Excel Pivot-Tabellen ERSTELLEN 📚 Grundlagen einfach erklärt](https://www.youtube.com/watch?v=6zaq-9Z4poE) (YouTube)
 
   - [Daten mit Pivot-Tabellen in Google Sheets strukturieren und auswerten | Google Workspace Tutorial](https://www.youtube.com/watch?v=n4aFMaL01Mc) (YouTube)
-","36,33,34"
+","33,34,36,37"
 39,generative-ki,Generative KI,5 - Datenmethoden,5 - fällt häufig,Leili Riazy,"""Generative KI"" in CDL Selbstlernmaterial von Leili Riazy, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# Generative KI
 ## Erklärung
 
@@ -2121,7 +2247,7 @@ Der Text, den die Nutzer\*innen einem generativen Modell als Anleitung zur Gener
 
 ### Beispiele
 
-- Chatbots wie [ChatGPT,](https://example.org/chatgpt) die auf Texteingaben Antworten generieren.
+- Chatbots wie [ChatGPT,](https://civic-data.de/selbstlernmaterial/#chatgpt) die auf Texteingaben Antworten generieren.
 
 - Aus Textbeschreibungen können neue Bilder erzeugt werden.
 
@@ -2191,7 +2317,7 @@ Spezifische Bereiche generativer KI könnt ihr auch in den Kapiteln zu [ChatGPT]
 
 - [KI](https://civic-data.de/selbstlernmaterial/#ki): Oberbegriff für KI Systeme, die zum Beispiel auch nicht generativ sein können. Beispielsweise die Erkennung von Gegenständen auf Bildern.
 
-- [Large Language Model (LLM)](https://example.org/llm) / [Small Language Model (SLM)](https://example.org/slm): Bestimmte Formen von generativer KI, die zur Generierung von Text verwendet werden.
+- [Large Language Model (LLM)](https://civic-data.de/selbstlernmaterial/#llm) / [Small Language Model (SLM)](https://civic-data.de/selbstlernmaterial/#slm): Bestimmte Formen von generativer KI, die zur Generierung von Text verwendet werden.
 
 - Retrieval Augmented Generation ([RAG](https://civic-data.de/selbstlernmaterial/#rag)) ist eine spezielle Art von Prompt Engineering, bei der dem eigentlichen Prompt des Nutzers weitere Informationen z.B. aus den FAQs einer Website hinzugefügt werden, bevor der Prompt an ein Language Model weitergegeben wird.
 
@@ -2208,7 +2334,7 @@ Spezifische Bereiche generativer KI könnt ihr auch in den Kapiteln zu [ChatGPT]
 - [Sora](https://openai.com/sora/) zur Generierung von Videos (en).
 
 - [Vortrag von Journalistin Eva Wolfangel](https://media.ccc.de/v/37c3-12008-unsere_worte_sind_unsere_waffen) darüber, wie das Social Engineering von Sprachmodellen funktioniert (gehalten auf dem 37ten Chaos Communication Congress)
-","1,2,22,24,36,40,41,42,43,26"
+","1,2,22,24,36,40,41,42,43,26,37"
 40,rag,RAG,5 - Datenmethoden,1 - fällt nur in bestimmten Umständen,Leili Riazy,"""RAG"" in CDL Selbstlernmaterial von Leili Riazy, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# RAG
 ## Erklärung
 
@@ -2220,7 +2346,7 @@ Auch bekannt unter: Retrieval Augmented Generation, Retrieval-based Generation, 
 
 ### Definition
 
-Retrieval-Augmented Generation (RAG) ist eine Erweiterung von Large Language Models ([LLM](https://example.org/llm)s). Das Prinzip von RAG ist, dass zusätzliche Informationen in die Text-Anfrage (en: Prompt) an eine [generative KI](https://example.org/generative-ki) einbezogen werden. Dadurch entsteht eine Lösung, die deutlich flexibler und aktueller ist als ein reines Sprachmodell.
+Retrieval-Augmented Generation (RAG) ist eine Erweiterung von Large Language Models ([LLM](https://civic-data.de/selbstlernmaterial/#llm)s). Das Prinzip von RAG ist, dass zusätzliche Informationen in die Text-Anfrage (en: Prompt) an eine [generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki) einbezogen werden. Dadurch entsteht eine Lösung, die deutlich flexibler und aktueller ist als ein reines Sprachmodell.
 
 Die beiden Phasen des RAG Systems sind:
 
@@ -2254,7 +2380,7 @@ Die Grafik illustriert das RAG Verfahren. Die Schritte 2 und 3 in der Grafik zei
 
 - RAG kann bei Bedarf strengere Datenschutz- oder Sicherheitsvorschriften erfüllen, indem nur bestimmte, freigegebene Datenquellen durchsucht werden. Andererseits gibt es durch die hohe Komplexität bei nicht sachgemäßer Einrichtung hier auch eine Schwachstelle, bei der sensible Daten nach außen gelangen können. Man spricht dann von “Leakage” (englisch für “Leckage”).
 
-- RAG Systeme lohnen sich erst bei großen Datenmengen, weil die Erstellung und Instandhaltung mit regelmäßigen Kosten verbunden ist. Während [LLM](https://example.org/llm)s üblicherweise für einzelne Abfragen bezahlt werden ist eine Datenbank für einen langfristigen Gebrauch ausgelegt.
+- RAG Systeme lohnen sich erst bei großen Datenmengen, weil die Erstellung und Instandhaltung mit regelmäßigen Kosten verbunden ist. Während [LLM](https://civic-data.de/selbstlernmaterial/#llm)s üblicherweise für einzelne Abfragen bezahlt werden ist eine Datenbank für einen langfristigen Gebrauch ausgelegt.
 
 ## Mehr zu RAG
 
@@ -2262,7 +2388,7 @@ Die Grafik illustriert das RAG Verfahren. Die Schritte 2 und 3 in der Grafik zei
 
 - Informationen, die das Sprachmodell nutzt, können aktualisiert werden, ohne dass das Modell neu trainiert werden muss. Wenn Systeme ständig aktuell gehalten werden müssen, können durch RAG System Ressourcen gespart werden, da das Aktualisieren der Wissensdatenbank weniger aufwändig ist, als das Anpassen eines großen Sprachmodells.
 
-- Effiziente Datenbanken können große Mengen an Daten sichern, ohne dass sie Teil des Sprachmodells ([LLM](https://example.org/llm) oder [SLM](https://example.org/slm)) sein müssen.
+- Effiziente Datenbanken können große Mengen an Daten sichern, ohne dass sie Teil des Sprachmodells ([LLM](https://civic-data.de/selbstlernmaterial/#llm) oder [SLM](https://civic-data.de/selbstlernmaterial/#slm)) sein müssen.
 
 - Sprachmodelle neigen dazu, falsche Informationen (sogenannte “Halluzinationen”) zu produzieren. Spezifische Verweise auf Quellen können Antworten nachvollziehbar und überprüfbar machen.
 
@@ -2276,22 +2402,22 @@ Die Grafik illustriert das RAG Verfahren. Die Schritte 2 und 3 in der Grafik zei
 
 ### Verwandte Begriffe
 
-- [LLM](https://example.org/llm) (Large Language Model): Sprachmodelle, welche häufig für den generativen Teil von RAG Systemen benutzt werden. Hier gibt es aber per se keinen direkten Bezug von einer Datenquelle.
+- [LLM](https://civic-data.de/selbstlernmaterial/#llm) (Large Language Model): Sprachmodelle, welche häufig für den generativen Teil von RAG Systemen benutzt werden. Hier gibt es aber per se keinen direkten Bezug von einer Datenquelle.
 
-- [SLM](https://example.org/slm)(Small Language Model): Kleinere Version von LLM
+- [SLM](https://civic-data.de/selbstlernmaterial/#slm)(Small Language Model): Kleinere Version von LLM
 
-- [Generative KI](https://example.org/generative-ki): RAG Systeme sind eine Art generative KI.
+- [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki): RAG Systeme sind eine Art generative KI.
 
 ## Weiterführende Materialien
 
 - Viele der großen Cloud-Dienste (z.B. [Azure](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)) bieten RAG Systeme an. Die Einrichtung erfordert aber fortgeschrittene Programmierkenntnisse. (en)
 
-- [ChatGPT](https://example.org/chatgpt) hat in der Plus Version die Option, eine Wissensdatenbank anzulegen. Navigiere dazu unter “Meine GPTs” und lade Dateien bei “Knowledge” hoch.
+- [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) hat in der Plus Version die Option, eine Wissensdatenbank anzulegen. Navigiere dazu unter “Meine GPTs” und lade Dateien bei “Knowledge” hoch.
 
 - [Blogbeitrag vom Fraunhofer IESE](https://www.iese.fraunhofer.de/blog/retrieval-augmented-generation-rag/) mit einer ausführlichen Erläuterung von RAG Systemen (de)
 
 - [Video von IBM](https://youtu.be/T-D1OfcDW1M?si=dqwuzI_xFOT0ds8x) mit einer einfachen Erklärung von RAG (en)
-","39,26,41,42"
+","39,41,42,43,26"
 41,llm,LLM,5 - Datenmethoden,5 - fällt häufig,Leili Riazy,"""LLM"" in CDL Selbstlernmaterial von Leili Riazy, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# LLM
 ## Erklärung
 
@@ -2301,7 +2427,7 @@ Deutsche Übersetzung: “Großes Sprachmodell""
 
 ### Definition
 
-Ein Large Language Model (LLM) ist ein [Machine-Learning](https://civic-data.de/selbstlernmaterial/#ml)-Modell, das mit sehr vielen Textdaten (z.B. aus Büchern, Artikeln oder dem Internet) trainiert wurde. Ein LLM hat die Fähigkeit, mithilfe von den gelernten statistischen Mustern neue Texte zu generieren, die natürliche Sprache nachahmen. Es handelt sich also um ein generatives Modell (siehe [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki)). In den letzten Jahren haben diese Modelle und die auf ihnen basierenden [Chatbots](https://civic-data.de/selbstlernmaterial/#chatbot) wie [ChatGPT](https://example.org/chatgpt) stark an Bedeutung gewonnen.
+Ein Large Language Model (LLM) ist ein [Machine-Learning](https://civic-data.de/selbstlernmaterial/#ml)-Modell, das mit sehr vielen Textdaten (z.B. aus Büchern, Artikeln oder dem Internet) trainiert wurde. Ein LLM hat die Fähigkeit, mithilfe von den gelernten statistischen Mustern neue Texte zu generieren, die natürliche Sprache nachahmen. Es handelt sich also um ein generatives Modell (siehe [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki)). In den letzten Jahren haben diese Modelle und die auf ihnen basierenden [Chatbots](https://civic-data.de/selbstlernmaterial/#chatbot) wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) stark an Bedeutung gewonnen.
 
 ### Beispiele
 
@@ -2426,7 +2552,7 @@ Hinweis: Da SLMs ein Teilgebiet [generativer KI](https://civic-data.de/selbstler
 
 ## Mehr zu SLM
 
-- Viele [SLM](https://example.org/slm)s entstehen durch Kompressionsverfahren (z. B. Knowledge Distillation, de: Wissensdestillierung), bei denen ein großes Modell „zusammengefasst“ wird. Dabei wird ein großes Modell (en: “Teacher”, de: “Lehrer\*in”) genutzt um ein kleineres Modell (en: “Student”, de: “Schüler\*in”) mit Inhalt zu füllen.
+- Viele [SLM](https://civic-data.de/selbstlernmaterial/#slm)s entstehen durch Kompressionsverfahren (z. B. Knowledge Distillation, de: Wissensdestillierung), bei denen ein großes Modell „zusammengefasst“ wird. Dabei wird ein großes Modell (en: “Teacher”, de: “Lehrer\*in”) genutzt um ein kleineres Modell (en: “Student”, de: “Schüler\*in”) mit Inhalt zu füllen.
 
 - Beispiele für SLM (Stand Februar 2025):
 
@@ -2458,26 +2584,26 @@ Hinweis: Da SLMs ein Teilgebiet [generativer KI](https://civic-data.de/selbstler
 
 ### Verwandte Begriffe
 
-- Large Language Model ([LLM](https://example.org/llm)): Ursprüngliche und größere Variante von Sprachmodellen.
+- Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)): Ursprüngliche und größere Variante von Sprachmodellen.
 
-- [Generative KI](https://example.org/generative-ki): Oberbegriff für Computermodelle, die zu einer gegebenen Anfrage Daten wie Text oder Bilder generieren. Ein SLM ist ein generatives KI-Modell.
+- [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki): Oberbegriff für Computermodelle, die zu einer gegebenen Anfrage Daten wie Text oder Bilder generieren. Ein SLM ist ein generatives KI-Modell.
 
-- [ChatGPT](https://example.org/chatgpt): Ein populärer Chatbot von der Firma OpenAI, der sowohl [SLM](https://example.org/slm)s als auch [LLM](https://example.org/llm)s nutzen kann um mit Menschen über Text zu interagieren.
+- [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt): Ein populärer Chatbot von der Firma OpenAI, der sowohl [SLM](https://civic-data.de/selbstlernmaterial/#slm)s als auch [LLM](https://civic-data.de/selbstlernmaterial/#llm)s nutzen kann um mit Menschen über Text zu interagieren.
 
-- [RAG](https://example.org/rag): Ein System, welches [SLM](https://example.org/slm)s oder [LLM](https://example.org/llm)s gemeinsam mit einer Datenbank verwendet um Antworttexte auf Informationen aus der Datenbank zu basieren.
+- [RAG](https://civic-data.de/selbstlernmaterial/#rag): Ein System, welches [SLM](https://civic-data.de/selbstlernmaterial/#slm)s oder [LLM](https://civic-data.de/selbstlernmaterial/#llm)s gemeinsam mit einer Datenbank verwendet um Antworttexte auf Informationen aus der Datenbank zu basieren.
 
 ## Weiterführende Materialien
 
 - [Artikel von DataCamp](https://www.datacamp.com/de/blog/small-language-models): Eine Auflistung aus dem Jahr 2024 zu SLMs. Hier werden einzelne SLMs zeitlich in Perspektive gesetzt und für spezifische Anwendungen evaluiert.
 
 - Chatte mit einem SLM auf [Huggingchat](https://huggingface.co/chat/): Hier kannst du ein SLM (beispielsweise microsoft/Phi-3.5-mini-instruct) auswählen und einige Anfragen austesten.
-","36,37,39,40,41,26"
+","36,37,39,40,41,42,43,26"
 43,chatgpt,ChatGPT,5 - Datenmethoden,5 - fällt häufig,Leili Riazy,"""ChatGPT"" in CDL Selbstlernmaterial von Leili Riazy, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).","# ChatGPT
 ## Erklärung
 
 ### Definition
 
-[ChatGPT](http://chatgpt.com) ist ein [Chatbot](https://example.org/chatbot), der von der Firma OpenAI entwickelt wurde. ChatGPT ahmt Unterhaltungen von Menschen nach. Im Hintergrund wird dafür ein [KI](https://example.org/ki) Sprachmodell, ein sogenanntes Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)) verwendet. Die Veröffentlichung von ChatGPT im Jahr 2022 hat große Wellen in der breiten Öffentlichkeit geschlagen und [LLM](https://example.org/llm)s schlagartig populär gemacht. ChatGPT kann mit unterschiedlichen LLMs als Grundlage ausgeführt werden.
+[ChatGPT](http://chatgpt.com) ist ein [Chatbot](https://civic-data.de/selbstlernmaterial/#chatbot), der von der Firma OpenAI entwickelt wurde. ChatGPT ahmt Unterhaltungen von Menschen nach. Im Hintergrund wird dafür ein [KI](https://civic-data.de/selbstlernmaterial/#ki) Sprachmodell, ein sogenanntes Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)) verwendet. Die Veröffentlichung von ChatGPT im Jahr 2022 hat große Wellen in der breiten Öffentlichkeit geschlagen und [LLM](https://civic-data.de/selbstlernmaterial/#llm)s schlagartig populär gemacht. ChatGPT kann mit unterschiedlichen LLMs als Grundlage ausgeführt werden.
 
 ### Beispiele
 
@@ -2485,11 +2611,11 @@ Hinweis: Da SLMs ein Teilgebiet [generativer KI](https://civic-data.de/selbstler
 
 ## Wann ist ChatGPT für euch relevant? 
 
-Siehe Relevanz von [LLM](https://example.org/llm)s und [Generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki).
+Siehe Relevanz von [LLM](https://civic-data.de/selbstlernmaterial/#llm)s und [Generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki).
 
 ## Was sind die Implikationen von ChatGPT für euch? 
 
-Siehe Implikationen von [LLM](https://example.org/llm)s und [Generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki).
+Siehe Implikationen von [LLM](https://civic-data.de/selbstlernmaterial/#llm)s und [Generativer KI](https://civic-data.de/selbstlernmaterial/#generative-ki).
 
 - Gerade weil ChatGPT so gut funktioniert, ist es verlockend, viel damit zu machen und sich die Arbeit zu erleichtern. Gerade personenbezogene oder anderweitig sensible Daten (z.B. Finanzpläne) solltet ihr aber nicht in ChatGPT verarbeiten.
 
@@ -2497,23 +2623,23 @@ Siehe Implikationen von [LLM](https://example.org/llm)s und [Generativer KI](htt
 
 ### Vorteile von ChatGPT
 
-- Siehe Vorteile von [LLM](https://example.org/llm).
+- Siehe Vorteile von [LLM](https://civic-data.de/selbstlernmaterial/#llm).
 
 - Kostenlose Nutzung auch ohne Anmeldung möglich.
 
 ### Nachteile von ChatGPT
 
-- Siehe Nachteile von [LLM](https://example.org/llm).
+- Siehe Nachteile von [LLM](https://civic-data.de/selbstlernmaterial/#llm).
 
 - Nur in reduziertem Umfang kostenlos und ohne Anmeldung nutzbar. Nach Erreichen des Limits kostenpflichtig, anders als Konkurrenzprodukte wie z.B. [DeepSeek](https://www.deepseek.com/) (Stand Februar 2025).
 
 ### Verwandte Begriffe
 
-- [Generative KI](https://example.org/generative-ai): Oberbegriff für KI-Systeme, die neue Inhalte (Texte, Bilder, Musik) erzeugen. ChatGPT benutzt für die Textgenerierung ein LLM. LLMs sind ein Teilbereich von Generativer KI.
+- [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki): Oberbegriff für KI-Systeme, die neue Inhalte (Texte, Bilder, Musik) erzeugen. ChatGPT benutzt für die Textgenerierung ein LLM. LLMs sind ein Teilbereich von Generativer KI.
 
-- Large Language Model ([LLM](https://example.org/llm)): Zugrundeliegendes Sprachmodell, was immer die folgenden Worte auf eine Textsequenz vorhersagt. Chatbots erfordern noch ein zusätzliches Modell, was den Text in eine “Frage”/”Antwort” Reihenfolge bringt.
+- Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)): Zugrundeliegendes Sprachmodell, was immer die folgenden Worte auf eine Textsequenz vorhersagt. Chatbots erfordern noch ein zusätzliches Modell, was den Text in eine “Frage”/”Antwort” Reihenfolge bringt.
 
-- Small Language Model ([SLM](https://example.org/slm)): Kleinere Version eines LLMs, welches für einen Chatbot genutzt werden kann.
+- Small Language Model ([SLM](https://civic-data.de/selbstlernmaterial/#slm)): Kleinere Version eines LLMs, welches für einen Chatbot genutzt werden kann.
 
 ## Weiterführende Materialien
 
@@ -2523,4 +2649,4 @@ Siehe Implikationen von [LLM](https://example.org/llm)s und [Generativer KI](htt
 
 - [Generelle Informationen zu KI](https://www.bildungsserver.de/kuenstliche-intelligenz-ki-in-der-sozialen-arbeit-13030-de.html#Fuer_die_Praxis_KI_Tools_und_Materialien) vom deutschen Bildungsserver, häufig ist aber konkret ChatGPT damit gemeint.
 
-- [Wikipedia Artikel](https://de.wikipedia.org/wiki/ChatGPT)","39,41,26,36,37"
+- [Wikipedia Artikel](https://de.wikipedia.org/wiki/ChatGPT)","26,36,39,41,42,37,40"

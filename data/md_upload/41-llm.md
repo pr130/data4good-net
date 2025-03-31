@@ -7,7 +7,7 @@ Deutsche Übersetzung: “Großes Sprachmodell"
 
 ### Definition
 
-Ein Large Language Model (LLM) ist ein [Machine-Learning](https://civic-data.de/selbstlernmaterial/#ml)-Modell, das mit sehr vielen Textdaten (z.B. aus Büchern, Artikeln oder dem Internet) trainiert wurde. Ein LLM hat die Fähigkeit, mithilfe von den gelernten statistischen Mustern neue Texte zu generieren, die natürliche Sprache nachahmen. Es handelt sich also um ein generatives Modell (siehe [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki)). In den letzten Jahren haben diese Modelle und die auf ihnen basierenden [Chatbots](https://civic-data.de/selbstlernmaterial/#chatbot) wie [ChatGPT](https://example.org/chatgpt) stark an Bedeutung gewonnen.
+Ein Large Language Model (LLM) ist ein [Machine-Learning](https://civic-data.de/selbstlernmaterial/#ml)-Modell, das mit sehr vielen Textdaten (z.B. aus Büchern, Artikeln oder dem Internet) trainiert wurde. Ein LLM hat die Fähigkeit, mithilfe von den gelernten statistischen Mustern neue Texte zu generieren, die natürliche Sprache nachahmen. Es handelt sich also um ein generatives Modell (siehe [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki)). In den letzten Jahren haben diese Modelle und die auf ihnen basierenden [Chatbots](https://civic-data.de/selbstlernmaterial/#chatbot) wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) stark an Bedeutung gewonnen.
 
 ### Beispiele
 

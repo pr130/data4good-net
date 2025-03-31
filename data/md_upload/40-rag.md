@@ -9,7 +9,7 @@ Auch bekannt unter: Retrieval Augmented Generation, Retrieval-based Generation, 
 
 ### Definition
 
-Retrieval-Augmented Generation (RAG) ist eine Erweiterung von Large Language Models ([LLM](https://example.org/llm)s). Das Prinzip von RAG ist, dass zusätzliche Informationen in die Text-Anfrage (en: Prompt) an eine [generative KI](https://example.org/generative-ki) einbezogen werden. Dadurch entsteht eine Lösung, die deutlich flexibler und aktueller ist als ein reines Sprachmodell.
+Retrieval-Augmented Generation (RAG) ist eine Erweiterung von Large Language Models ([LLM](https://civic-data.de/selbstlernmaterial/#llm)s). Das Prinzip von RAG ist, dass zusätzliche Informationen in die Text-Anfrage (en: Prompt) an eine [generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki) einbezogen werden. Dadurch entsteht eine Lösung, die deutlich flexibler und aktueller ist als ein reines Sprachmodell.
 
 Die beiden Phasen des RAG Systems sind:
 
@@ -43,7 +43,7 @@ Die Grafik illustriert das RAG Verfahren. Die Schritte 2 und 3 in der Grafik zei
 
 - RAG kann bei Bedarf strengere Datenschutz- oder Sicherheitsvorschriften erfüllen, indem nur bestimmte, freigegebene Datenquellen durchsucht werden. Andererseits gibt es durch die hohe Komplexität bei nicht sachgemäßer Einrichtung hier auch eine Schwachstelle, bei der sensible Daten nach außen gelangen können. Man spricht dann von “Leakage” (englisch für “Leckage”).
 
-- RAG Systeme lohnen sich erst bei großen Datenmengen, weil die Erstellung und Instandhaltung mit regelmäßigen Kosten verbunden ist. Während [LLM](https://example.org/llm)s üblicherweise für einzelne Abfragen bezahlt werden ist eine Datenbank für einen langfristigen Gebrauch ausgelegt.
+- RAG Systeme lohnen sich erst bei großen Datenmengen, weil die Erstellung und Instandhaltung mit regelmäßigen Kosten verbunden ist. Während [LLM](https://civic-data.de/selbstlernmaterial/#llm)s üblicherweise für einzelne Abfragen bezahlt werden ist eine Datenbank für einen langfristigen Gebrauch ausgelegt.
 
 ## Mehr zu RAG
 
@@ -51,7 +51,7 @@ Die Grafik illustriert das RAG Verfahren. Die Schritte 2 und 3 in der Grafik zei
 
 - Informationen, die das Sprachmodell nutzt, können aktualisiert werden, ohne dass das Modell neu trainiert werden muss. Wenn Systeme ständig aktuell gehalten werden müssen, können durch RAG System Ressourcen gespart werden, da das Aktualisieren der Wissensdatenbank weniger aufwändig ist, als das Anpassen eines großen Sprachmodells.
 
-- Effiziente Datenbanken können große Mengen an Daten sichern, ohne dass sie Teil des Sprachmodells ([LLM](https://example.org/llm) oder [SLM](https://example.org/slm)) sein müssen.
+- Effiziente Datenbanken können große Mengen an Daten sichern, ohne dass sie Teil des Sprachmodells ([LLM](https://civic-data.de/selbstlernmaterial/#llm) oder [SLM](https://civic-data.de/selbstlernmaterial/#slm)) sein müssen.
 
 - Sprachmodelle neigen dazu, falsche Informationen (sogenannte “Halluzinationen”) zu produzieren. Spezifische Verweise auf Quellen können Antworten nachvollziehbar und überprüfbar machen.
 
@@ -65,17 +65,17 @@ Die Grafik illustriert das RAG Verfahren. Die Schritte 2 und 3 in der Grafik zei
 
 ### Verwandte Begriffe
 
-- [LLM](https://example.org/llm) (Large Language Model): Sprachmodelle, welche häufig für den generativen Teil von RAG Systemen benutzt werden. Hier gibt es aber per se keinen direkten Bezug von einer Datenquelle.
+- [LLM](https://civic-data.de/selbstlernmaterial/#llm) (Large Language Model): Sprachmodelle, welche häufig für den generativen Teil von RAG Systemen benutzt werden. Hier gibt es aber per se keinen direkten Bezug von einer Datenquelle.
 
-- [SLM](https://example.org/slm)(Small Language Model): Kleinere Version von LLM
+- [SLM](https://civic-data.de/selbstlernmaterial/#slm)(Small Language Model): Kleinere Version von LLM
 
-- [Generative KI](https://example.org/generative-ki): RAG Systeme sind eine Art generative KI.
+- [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki): RAG Systeme sind eine Art generative KI.
 
 ## Weiterführende Materialien
 
 - Viele der großen Cloud-Dienste (z.B. [Azure](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)) bieten RAG Systeme an. Die Einrichtung erfordert aber fortgeschrittene Programmierkenntnisse. (en)
 
-- [ChatGPT](https://example.org/chatgpt) hat in der Plus Version die Option, eine Wissensdatenbank anzulegen. Navigiere dazu unter “Meine GPTs” und lade Dateien bei “Knowledge” hoch.
+- [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) hat in der Plus Version die Option, eine Wissensdatenbank anzulegen. Navigiere dazu unter “Meine GPTs” und lade Dateien bei “Knowledge” hoch.
 
 - [Blogbeitrag vom Fraunhofer IESE](https://www.iese.fraunhofer.de/blog/retrieval-augmented-generation-rag/) mit einer ausführlichen Erläuterung von RAG Systemen (de)
 

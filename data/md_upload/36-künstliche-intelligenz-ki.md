@@ -17,7 +17,7 @@ Der Begriff Künstliche Intelligenz (de: KI, en: AI) umfasst Modelle und Anwendu
 
 - Ein anderes Einsatzgebiet von KI sind Autos, die mithilfe der Daten von Sensoren und Kameras, von denen KI-Modelle kontinuierlich lernen, eigenständig fahren können.
 
-- Ein weiteres Beispiel für eine KI Anwendung sind automatisierte Text- oder Sprachsysteme, die auf Kundenanfragen reagieren und Antworten generieren. Viele Firmen bieten heutzutage einen Chatbot (ähnlich wie [ChatGPT](https://example.org/chatgpt)) auf ihrer Website an, um Fragen zu beantworten. Der Verein Politik zum Anfassen e.V. hat seine Daten zu Jugendbeteiligungsprojekten mithilfe eines [Chatbots](https://app.kommuki.syndicats.de/chat) erlebbar und durchsuchbar gemacht.
+- Ein weiteres Beispiel für eine KI Anwendung sind automatisierte Text- oder Sprachsysteme, die auf Kundenanfragen reagieren und Antworten generieren. Viele Firmen bieten heutzutage einen Chatbot (ähnlich wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt)) auf ihrer Website an, um Fragen zu beantworten. Der Verein Politik zum Anfassen e.V. hat seine Daten zu Jugendbeteiligungsprojekten mithilfe eines [Chatbots](https://app.kommuki.syndicats.de/chat) erlebbar und durchsuchbar gemacht.
 
 - In der Zivilgesellschaft werden KI-Modelle zum Beispiel benutzt, um Imker zu warnen, wenn ihr Bienen ausschwärmen (in diesem Fall lernt die KI von Sensordaten aus dem Bienenstock) - weiterführende Informationen zum BeeObserver findet ihr [hier](https://www.correlaid.org/daten-nutzen/projektdatenbank/2019-10-BEE/)
 
@@ -55,13 +55,13 @@ Die Möglichkeiten, die sich durch den Einsatz von KI-Software eröffnen, sind v
 
 ### Vorteile von KI
 
-- Wiederkehrende Aufgaben können schneller und präziser erledigt werden. Häufig wird hierfür [Machine Learning (ML)](https://example.org/ml) verwendet.
+- Wiederkehrende Aufgaben können schneller und präziser erledigt werden. Häufig wird hierfür [Machine Learning (ML)](https://civic-data.de/selbstlernmaterial/#ml) verwendet.
 
 - Heutzutage existieren für vielen Problemstellungen schon vorgefertige KI Systeme, auf die man eigene Lösungen aufbauen kann
 
   - z.B. [Large Language Models](https://civic-data.de/selbstlernmaterial/#llm), die in Chatbots wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) eingesetzt werden
 
-  - Generative KI Modelle, die Bilder erzeugen können, wie z.B. [Midjourney](https://www.midjourney.com/home) helfen z.B. bei der Erstellung von Social Media Beiträgen. Lest hierzu in unserem Kapitel über [Generative KI](https://example.org/generative-ai) mehr.
+  - Generative KI Modelle, die Bilder erzeugen können, wie z.B. [Midjourney](https://www.midjourney.com/home) helfen z.B. bei der Erstellung von Social Media Beiträgen. Lest hierzu in unserem Kapitel über [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki) mehr.
 
 ### Nachteile von KI
 
@@ -77,17 +77,17 @@ Die Möglichkeiten, die sich durch den Einsatz von KI-Software eröffnen, sind v
 
 - KI Modelle scheitern häufig an Problemen, die für Menschen absolut einfach sind. Es ist relativ unvorhersehbar, welche diese Themen sind, die für KI Modelle besonders schwer sind. Ein Beispiel ist, dass viele KI Sprachmodelle daran scheitern, zu zählen, wie oft der Buchstabe “r” im Wort “strawberry” vorkommt (s. dazu diesen [Artikel](https://www.inc.com/kit-eaton/how-many-rs-in-strawberry-this-ai-cant-tell-you.html)).
 
-- Forschung, Entwicklung und Implementierung von KI Modellen sind anspruchsvoll und kostenintensiv. Die Entwicklung des Modells GPT-4 hinter der beliebten Anwendung [ChatGPT](https://example.org/chatgpt) hat laut CEO der entwickelnden Firma mehr als $100 Millionen gekostet.Gerade die großen KI-Modelle wie GPT verbrauchen enorme Strom- und Wasserressourcen. Mehr dazu könnt ihr in diesem [Blog Post](https://civic-data.de/klimafaktor-ki/) erfahren.
+- Forschung, Entwicklung und Implementierung von KI Modellen sind anspruchsvoll und kostenintensiv. Die Entwicklung des Modells GPT-4 hinter der beliebten Anwendung [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) hat laut CEO der entwickelnden Firma mehr als $100 Millionen gekostet.Gerade die großen KI-Modelle wie GPT verbrauchen enorme Strom- und Wasserressourcen. Mehr dazu könnt ihr in diesem [Blog Post](https://civic-data.de/klimafaktor-ki/) erfahren.
 
 ### Verwandte Begriffe
 
 - Artificial General Intelligence (AGI): Im Gegensatz zu KI wird auch häufig von einer “generalisierten” künstlichen Intelligenz gesprochen. Damit ist gemeint, dass ein KI System über verschiedene Anwendungen hinweg nutzbar ist. Bisherige Modelle sind in der Regel auf eine Anwendung optimiert, z.B. Textproduktion.
 
-- Machine Learning ([ML](https://example.org/ml)): Die Methodenfamilie hinter vielen KI Anwendungen.
+- Machine Learning ([ML](https://civic-data.de/selbstlernmaterial/#ml)): Die Methodenfamilie hinter vielen KI Anwendungen.
 
-- [Generative KI](https://example.org/generative-ai): Eine bestimmte Form von KI Systemen, die Daten (z.B. Text, Bilder oder Videos) generieren.
+- [Generative KI](https://civic-data.de/selbstlernmaterial/#generative-ki): Eine bestimmte Form von KI Systemen, die Daten (z.B. Text, Bilder oder Videos) generieren.
 
-- Large Language Model ([LLM](https://example.org/llm)): Ein ML Modelltyp, der auf die Generierung von Text spezialisiert ist. LLMs werden für KI-Systeme wie [ChatGPT](https://example.org/chatgpt) verwendet, um das Chatten mit einem Menschen nachzuahmen.
+- Large Language Model ([LLM](https://civic-data.de/selbstlernmaterial/#llm)): Ein ML Modelltyp, der auf die Generierung von Text spezialisiert ist. LLMs werden für KI-Systeme wie [ChatGPT](https://civic-data.de/selbstlernmaterial/#chatgpt) verwendet, um das Chatten mit einem Menschen nachzuahmen.
 
 - Small Language Model ([SLM](https://civic-data.de/selbstlernmaterial/#slm)): Kleinere Version von großen Sprachmodellen.
 

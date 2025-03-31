@@ -108,3 +108,4 @@ Wenn du noch mehr über agil erfahren möchtest, schaue dir die folgenden Ressou
 - [11 Tipps und Ressourcen](https://about.gitlab.com/de-de/topics/devops/devops-beginner-resources/) für den Einstieg von Gitlab, wie z.B. dieses [kostenlose ebook](https://learn.gitlab.com/beginners-guide-devops/guide-to-devops) mit den Grundlagen. (de und en)
 
 - Buch: “Projekt Phoenix: Der Roman über IT und DevOps” (Gene Kim, Kevin Behr, George Spafford)
+

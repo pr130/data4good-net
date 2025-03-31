@@ -97,7 +97,7 @@ Das Client-Server-Modell ist eine grundlegende Architektur im Internet. Moderne 
 
 - **Peer-to-Peer (P2P)**: Ein Modell, bei dem es keine zentrale Server-Struktur gibt, sondern Geräte direkt miteinander kommunizieren.
 
-- **Cloud Computing**: Server werden als Dienstleistung von externen [Cloud](https://www.example.com//cloud)-Anbietern bereitgestellt.
+- **Cloud Computing**: Server werden als Dienstleistung von externen [Cloud](https://civic-data.de/selbstlernmaterial/#cloud)-Anbietern bereitgestellt.
 
 - **API:** Eine [API](https://civic-data.de/selbstlernmaterial/#api) ist eine Schnittstelle zwischen zwei Anwendungen. Sie ermöglicht es der einen Anwendung (Client) in einer strukturierten Form die Funktionen einer anderen Anwendung (Server) zu nutzen.
 

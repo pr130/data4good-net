@@ -15,7 +15,7 @@ Der Text, den die Nutzer\*innen einem generativen Modell als Anleitung zur Gener
 
 ### Beispiele
 
-- Chatbots wie [ChatGPT,](https://example.org/chatgpt) die auf Texteingaben Antworten generieren.
+- Chatbots wie [ChatGPT,](https://civic-data.de/selbstlernmaterial/#chatgpt) die auf Texteingaben Antworten generieren.
 
 - Aus Textbeschreibungen können neue Bilder erzeugt werden.
 
@@ -85,7 +85,7 @@ Spezifische Bereiche generativer KI könnt ihr auch in den Kapiteln zu [ChatGPT]
 
 - [KI](https://civic-data.de/selbstlernmaterial/#ki): Oberbegriff für KI Systeme, die zum Beispiel auch nicht generativ sein können. Beispielsweise die Erkennung von Gegenständen auf Bildern.
 
-- [Large Language Model (LLM)](https://example.org/llm) / [Small Language Model (SLM)](https://example.org/slm): Bestimmte Formen von generativer KI, die zur Generierung von Text verwendet werden.
+- [Large Language Model (LLM)](https://civic-data.de/selbstlernmaterial/#llm) / [Small Language Model (SLM)](https://civic-data.de/selbstlernmaterial/#slm): Bestimmte Formen von generativer KI, die zur Generierung von Text verwendet werden.
 
 - Retrieval Augmented Generation ([RAG](https://civic-data.de/selbstlernmaterial/#rag)) ist eine spezielle Art von Prompt Engineering, bei der dem eigentlichen Prompt des Nutzers weitere Informationen z.B. aus den FAQs einer Website hinzugefügt werden, bevor der Prompt an ein Language Model weitergegeben wird.
 
