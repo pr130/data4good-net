@@ -77,9 +77,9 @@ max_id <- kanban %>%
   filter(status != "Backlog") %>% 
   pull(id) %>% max()
 
-missing <- setdiff(1:max_id, upload$id)
-if (length(missing) > 0) print(glue::glue("Term {kanban$slug[kanban$id %in% missing]} missing"))
-stopifnot(length(missing) == 0)
+missing_terms <- setdiff(1:max_id, upload$id)
+if (length(missing_terms) > 0) print(glue::glue("Term {kanban$slug[kanban$id %in% missing_terms]} missing"))
+stopifnot(length(missing_terms) == 0)
 
 # upload to google sheet
 print("Uploading dataset to google sheets")
