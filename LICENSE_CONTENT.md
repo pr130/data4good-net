@@ -9,6 +9,7 @@
 - "DevOps" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Agil" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "SCRUM" in CDL Selbstlernmaterial von Marcus Voß, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
+- "WebApp" in CDL Selbstlernmaterial von Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Chatbot" in CDL Selbstlernmaterial von Sören Etler, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Datenbank" in CDL Selbstlernmaterial von Asim Alsabagh, Leo Preu, Antje Relitz, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 - "Data Warehouse (DWH)" in CDL Selbstlernmaterial von Asim Alsabagh, Antje Relitz, Leo Preu, lizensiert unter [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
